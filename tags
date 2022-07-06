@@ -1,0 +1,1689 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	03/inheritance.cpp	/^class A {$/;"	c	file:
+A	03/shared_ptr.cpp	/^class A {$/;"	c	file:
+A	03/simple_template_class.cpp	/^    A(const T& data)$/;"	f	class:A	access:public	signature:(const T& data)
+A	03/simple_template_class.cpp	/^class A {$/;"	c	file:
+A	stl/inheritance.cpp	/^class A {$/;"	c	file:
+A	stl/simple_template_class.cpp	/^    A(const T& data)$/;"	f	class:A	access:public	signature:(const T& data)
+A	stl/simple_template_class.cpp	/^class A {$/;"	c	file:
+A::A	03/simple_template_class.cpp	/^    A(const T& data)$/;"	f	class:A	access:public	signature:(const T& data)
+A::A	stl/simple_template_class.cpp	/^    A(const T& data)$/;"	f	class:A	access:public	signature:(const T& data)
+A::count	03/simple_template_class.cpp	/^    size_t count = 0;$/;"	m	class:A	file:	access:private
+A::count	stl/simple_template_class.cpp	/^    size_t count = 0;$/;"	m	class:A	file:	access:private
+A::func1	03/inheritance.cpp	/^  void func1() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::func1	stl/inheritance.cpp	/^  void func1() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::get	03/simple_template_class.cpp	/^    T get();$/;"	p	class:A	file:	access:public	signature:()
+A::get	03/simple_template_class.cpp	/^T A<T>::get() {$/;"	f	class:A	signature:()
+A::get	stl/simple_template_class.cpp	/^    T get();$/;"	p	class:A	file:	access:public	signature:()
+A::get	stl/simple_template_class.cpp	/^T A<T>::get() {$/;"	f	class:A	signature:()
+A::m_data	03/simple_template_class.cpp	/^    T m_data;$/;"	m	class:A	file:	access:private
+A::m_data	stl/simple_template_class.cpp	/^    T m_data;$/;"	m	class:A	file:	access:private
+A::show	03/shared_ptr.cpp	/^      void show() {$/;"	f	class:A	access:public	signature:()
+A::vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const = 0;$/;"	p	class:A	file:	access:public	signature:() const
+A::vfunc1	03/inheritance.cpp	/^void A::vfunc1() const {$/;"	f	class:A	signature:() const
+A::vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const = 0;$/;"	p	class:A	file:	access:public	signature:() const
+A::vfunc1	stl/inheritance.cpp	/^void A::vfunc1() const {$/;"	f	class:A	signature:() const
+A::vfunc2	03/inheritance.cpp	/^  virtual void vfunc2() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::vfunc2	03/inheritance.cpp	/^void A::vfunc2() const {$/;"	f	class:A	signature:() const
+A::vfunc2	stl/inheritance.cpp	/^  virtual void vfunc2() const;$/;"	p	class:A	file:	access:public	signature:() const
+A::vfunc2	stl/inheritance.cpp	/^void A::vfunc2() const {$/;"	f	class:A	signature:() const
+ALIGN_TO	grep/src/grep.c	890;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	448;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	452;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	462;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	473;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	505;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+ARCHITECTURE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	528;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	448;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	452;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	462;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	473;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	505;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+ARCHITECTURE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	528;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	448;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	452;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	462;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	473;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	505;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+ARCHITECTURE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	528;"	d	file:
+Array	03/template_class.cpp	/^    Array(T arr[], const int& size); $/;"	p	class:Array	file:	access:public	signature:(T arr[], const int& size)
+Array	03/template_class.cpp	/^Array<T>::Array(T arr[], const int& size) {$/;"	f	class:Array	signature:(T arr[], const int& size)
+Array	03/template_class.cpp	/^class Array {$/;"	c	file:
+Array	stl/template_class.cpp	/^    Array(T arr[], const int& size); $/;"	p	class:Array	file:	access:public	signature:(T arr[], const int& size)
+Array	stl/template_class.cpp	/^Array<T>::Array(T arr[], const int& size) {$/;"	f	class:Array	signature:(T arr[], const int& size)
+Array	stl/template_class.cpp	/^class Array {$/;"	c	file:
+Array::Array	03/template_class.cpp	/^    Array(T arr[], const int& size); $/;"	p	class:Array	file:	access:public	signature:(T arr[], const int& size)
+Array::Array	03/template_class.cpp	/^Array<T>::Array(T arr[], const int& size) {$/;"	f	class:Array	signature:(T arr[], const int& size)
+Array::Array	stl/template_class.cpp	/^    Array(T arr[], const int& size); $/;"	p	class:Array	file:	access:public	signature:(T arr[], const int& size)
+Array::Array	stl/template_class.cpp	/^Array<T>::Array(T arr[], const int& size) {$/;"	f	class:Array	signature:(T arr[], const int& size)
+Array::m_size	03/template_class.cpp	/^    int m_size;$/;"	m	class:Array	file:	access:private
+Array::m_size	stl/template_class.cpp	/^    int m_size;$/;"	m	class:Array	file:	access:private
+Array::print	03/template_class.cpp	/^    void print() const;$/;"	p	class:Array	file:	access:public	signature:() const
+Array::print	03/template_class.cpp	/^void Array<T>::print() const {$/;"	f	class:Array	signature:() const
+Array::print	stl/template_class.cpp	/^    void print() const;$/;"	p	class:Array	file:	access:public	signature:() const
+Array::print	stl/template_class.cpp	/^void Array<T>::print() const {$/;"	f	class:Array	signature:() const
+Array::ptr	03/template_class.cpp	/^    T* ptr;$/;"	m	class:Array	file:	access:private
+Array::ptr	stl/template_class.cpp	/^    T* ptr;$/;"	m	class:Array	file:	access:private
+B	03/inheritance.cpp	/^class B : public A {$/;"	c	file:	inherits:A
+B	stl/inheritance.cpp	/^class B : public A {$/;"	c	file:	inherits:A
+B::func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:B	file:	access:public	signature:() const
+B::func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:B	file:	access:public	signature:() const
+B::vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:B	file:	access:public	signature:() const
+B::vfunc1	03/inheritance.cpp	/^B::vfunc1() const {$/;"	f	class:B	signature:() const
+B::vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:B	file:	access:public	signature:() const
+B::vfunc1	stl/inheritance.cpp	/^B::vfunc1() const {$/;"	f	class:B	signature:() const
+BINARY_BINARY_FILES	grep/src/grep.c	/^  BINARY_BINARY_FILES,$/;"	e	enum:__anon13	file:
+BINARY_FILES_OPTION	grep/src/grep.c	/^  BINARY_FILES_OPTION = CHAR_MAX + 1,$/;"	e	enum:__anon6	file:
+C	03/inheritance.cpp	/^class C : public B {$/;"	c	file:	inherits:B
+C	stl/inheritance.cpp	/^class C : public B {$/;"	c	file:	inherits:B
+C::func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:C	file:	access:public	signature:() const
+C::func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:C	file:	access:public	signature:() const
+C::vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:C	file:	access:public	signature:() const
+C::vfunc1	03/inheritance.cpp	/^C::vfunc1() const {$/;"	f	class:C	signature:() const
+C::vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:C	file:	access:public	signature:() const
+C::vfunc1	stl/inheritance.cpp	/^C::vfunc1() const {$/;"	f	class:C	signature:() const
+CAST_ALIGNED	grep/src/grep.c	682;"	d	file:
+CAST_ALIGNED	grep/src/grep.c	690;"	d	file:
+CMAKE_BINARY_DIR	03/build/Makefile	/^CMAKE_BINARY_DIR = \/data\/cpp_prj\/zhihu\/03\/build$/;"	m
+CMAKE_BINARY_DIR	algorithm/build/Makefile	/^CMAKE_BINARY_DIR = \/data\/cpp_prj\/zhihu\/algorithm\/build$/;"	m
+CMAKE_BINARY_DIR	stl/build/Makefile	/^CMAKE_BINARY_DIR = \/data\/cpp_prj\/zhihu\/stl\/build$/;"	m
+CMAKE_COMMAND	03/build/Makefile	/^CMAKE_COMMAND = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake$/;"	m
+CMAKE_COMMAND	algorithm/build/Makefile	/^CMAKE_COMMAND = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake$/;"	m
+CMAKE_COMMAND	stl/build/Makefile	/^CMAKE_COMMAND = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	03/build/Makefile	/^CMAKE_SOURCE_DIR = \/data\/cpp_prj\/zhihu\/03$/;"	m
+CMAKE_SOURCE_DIR	algorithm/build/Makefile	/^CMAKE_SOURCE_DIR = \/data\/cpp_prj\/zhihu\/algorithm$/;"	m
+CMAKE_SOURCE_DIR	stl/build/Makefile	/^CMAKE_SOURCE_DIR = \/data\/cpp_prj\/zhihu\/stl$/;"	m
+COLOR_OPTION	grep/src/grep.c	/^  COLOR_OPTION,$/;"	e	enum:__anon6	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_INTERNAL	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_INTERNAL	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_TWEAK	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_VERSION_TWEAK	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_VERSION_TWEAK	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+CXX_STD	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	611;"	d	file:
+CXX_STD	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	619;"	d	file:
+CXX_STD	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	621;"	d	file:
+CXX_STD	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	611;"	d	file:
+CXX_STD	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	619;"	d	file:
+CXX_STD	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	621;"	d	file:
+CXX_STD	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	611;"	d	file:
+CXX_STD	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	619;"	d	file:
+CXX_STD	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	621;"	d	file:
+Camera	03/composition_object.cpp	/^    Camera() :x(0) {}$/;"	f	class:Camera	access:public	signature:()
+Camera	03/composition_object.cpp	/^    Camera(int d){$/;"	f	class:Camera	access:public	signature:(int d)
+Camera	03/composition_object.cpp	/^class Camera {$/;"	c	file:
+Camera::Camera	03/composition_object.cpp	/^    Camera() :x(0) {}$/;"	f	class:Camera	access:public	signature:()
+Camera::Camera	03/composition_object.cpp	/^    Camera(int d){$/;"	f	class:Camera	access:public	signature:(int d)
+Camera::x	03/composition_object.cpp	/^    int x;$/;"	m	class:Camera	file:	access:public
+Cellphone	03/composition_object.cpp	/^  Cellphone(int d) $/;"	f	class:Cellphone	access:public	signature:(int d)
+Cellphone	03/composition_object.cpp	/^class Cellphone {$/;"	c	file:
+Cellphone::Cellphone	03/composition_object.cpp	/^  Cellphone(int d) $/;"	f	class:Cellphone	access:public	signature:(int d)
+Cellphone::d	03/composition_object.cpp	/^  int d;$/;"	m	class:Cellphone	file:	access:private
+Cellphone::objCamera	03/composition_object.cpp	/^  Camera objCamera;$/;"	m	class:Cellphone	file:	access:private
+Cellphone::show	03/composition_object.cpp	/^  void show() {$/;"	f	class:Cellphone	access:public	signature:()
+Coreutils	grep/tests/Coreutils.pm	/^package Coreutils;$/;"	p
+Coreutils::_at_replace	grep/tests/Coreutils.pm	/^sub _at_replace ($$)$/;"	s
+Coreutils::_compare_files	grep/tests/Coreutils.pm	/^sub _compare_files ($$$$$)$/;"	s
+Coreutils::_create_file	grep/tests/Coreutils.pm	/^sub _create_file ($$$$)$/;"	s
+Coreutils::_process_file_spec	grep/tests/Coreutils.pm	/^sub _process_file_spec ($$$$$)$/;"	s
+Coreutils::_shell_quote	grep/tests/Coreutils.pm	/^sub _shell_quote ($)$/;"	s
+Coreutils::getlimits	grep/tests/Coreutils.pm	/^sub getlimits()$/;"	s
+Coreutils::run_tests	grep/tests/Coreutils.pm	/^sub run_tests ($$$$$)$/;"	s
+Coreutils::triple_test	grep/tests/Coreutils.pm	/^sub triple_test($)$/;"	s
+CuSkip	grep/tests/CuSkip.pm	/^package CuSkip;$/;"	p
+CuSkip::skip	grep/tests/CuSkip.pm	/^sub skip ($)$/;"	s
+CuTmpdir	grep/tests/CuTmpdir.pm	/^package CuTmpdir;$/;"	p
+CuTmpdir::chmod_1	grep/tests/CuTmpdir.pm	/^sub chmod_1$/;"	s
+CuTmpdir::chmod_tree	grep/tests/CuTmpdir.pm	/^sub chmod_tree$/;"	s
+CuTmpdir::import	grep/tests/CuTmpdir.pm	/^sub import {$/;"	s
+CuTmpdir::skip_test	grep/tests/CuTmpdir.pm	/^sub skip_test($)$/;"	s
+DATADIR	grep/lib/colorize-w32.c	30;"	d	file:
+DEC	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	532;"	d	file:
+DEC	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	532;"	d	file:
+DEC	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	532;"	d	file:
+DEPTH_SIZE	grep/src/kwset.c	/^enum { DEPTH_SIZE = CHAR_BIT + CHAR_BIT \/ 2 };$/;"	e	enum:__anon1	file:
+DIE_H	grep/src/die.h	20;"	d
+EGexecute	grep/src/dfasearch.c	/^EGexecute (void *vdc, char const *buf, idx_t size, idx_t *match_size,$/;"	f	signature:(void *vdc, char const *buf, idx_t size, idx_t *match_size, char const *start_ptr)
+EGexecute	grep/src/search.h	/^extern ptrdiff_t EGexecute (void *, char const *, idx_t, idx_t *, char const *);$/;"	p	signature:(void *, char const *, idx_t, idx_t *, char const *)
+EQUALS	03/build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	algorithm/build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	stl/build/Makefile	/^EQUALS = =$/;"	m
+EXCLUDE_DIRECTORY_OPTION	grep/src/grep.c	/^  EXCLUDE_DIRECTORY_OPTION,$/;"	e	enum:__anon6	file:
+EXCLUDE_FROM_OPTION	grep/src/grep.c	/^  EXCLUDE_FROM_OPTION,$/;"	e	enum:__anon6	file:
+EXCLUDE_OPTION	grep/src/grep.c	/^  EXCLUDE_OPTION,$/;"	e	enum:__anon6	file:
+EXIT_TROUBLE	grep/src/system.h	/^enum { EXIT_TROUBLE = 2 };$/;"	e	enum:__anon2
+E_MATCHER_INDEX	grep/src/grep.c	/^enum { E_MATCHER_INDEX = 1, F_MATCHER_INDEX = 2, G_MATCHER_INDEX = 0 };$/;"	e	enum:__anon16	file:
+Exit	grep/tests/init.sh	/^Exit () { set +e; (exit $1); exit $1; }$/;"	f
+FALLTHROUGH	grep/src/system.h	112;"	d
+FALLTHROUGH	grep/src/system.h	114;"	d
+FILTER_LONG_LINES	grep/cfg.mk	/^FILTER_LONG_LINES =							\\$/;"	m
+F_MATCHER_INDEX	grep/src/grep.c	/^enum { E_MATCHER_INDEX = 1, F_MATCHER_INDEX = 2, G_MATCHER_INDEX = 0 };$/;"	e	enum:__anon16	file:
+Fcompile	grep/src/kwsearch.c	/^Fcompile (char *pattern, idx_t size, reg_syntax_t ignored, bool exact)$/;"	f	signature:(char *pattern, idx_t size, reg_syntax_t ignored, bool exact)
+Fcompile	grep/src/search.h	/^extern void *Fcompile (char *, idx_t, reg_syntax_t, bool);$/;"	p	signature:(char *, idx_t, reg_syntax_t, bool)
+Fexecute	grep/src/kwsearch.c	/^Fexecute (void *vcp, char const *buf, idx_t size, idx_t *match_size,$/;"	f	signature:(void *vcp, char const *buf, idx_t size, idx_t *match_size, char const *start_ptr)
+Fexecute	grep/src/search.h	/^extern ptrdiff_t Fexecute (void *, char const *, idx_t, idx_t *, char const *);$/;"	p	signature:(void *, char const *, idx_t, idx_t *, char const *)
+Fraction	03/conversion_function.cpp	/^      Fraction(int num, int den=1)$/;"	f	class:Fraction	access:public	signature:(int num, int den=1)
+Fraction	03/conversion_function.cpp	/^class Fraction {$/;"	c	file:
+Fraction	stl/conversion_function.cpp	/^      Fraction(int num, int den=1)$/;"	f	class:Fraction	access:public	signature:(int num, int den=1)
+Fraction	stl/conversion_function.cpp	/^class Fraction {$/;"	c	file:
+Fraction::Fraction	03/conversion_function.cpp	/^      Fraction(int num, int den=1)$/;"	f	class:Fraction	access:public	signature:(int num, int den=1)
+Fraction::Fraction	stl/conversion_function.cpp	/^      Fraction(int num, int den=1)$/;"	f	class:Fraction	access:public	signature:(int num, int den=1)
+Fraction::m_denominator	03/conversion_function.cpp	/^        int m_denominator;$/;"	m	class:Fraction	file:	access:private
+Fraction::m_denominator	stl/conversion_function.cpp	/^        int m_denominator;$/;"	m	class:Fraction	file:	access:private
+Fraction::m_numerator	03/conversion_function.cpp	/^        int m_numerator;$/;"	m	class:Fraction	file:	access:private
+Fraction::m_numerator	stl/conversion_function.cpp	/^        int m_numerator;$/;"	m	class:Fraction	file:	access:private
+Fraction::operator double	03/conversion_function.cpp	/^      operator double() const {$/;"	f	class:Fraction	access:public	signature:() const
+Fraction::operator double	stl/conversion_function.cpp	/^      operator double() const {$/;"	f	class:Fraction	access:public	signature:() const
+GEAcompile	grep/src/dfasearch.c	/^GEAcompile (char *pattern, idx_t size, reg_syntax_t syntax_bits,$/;"	f	signature:(char *pattern, idx_t size, reg_syntax_t syntax_bits, bool exact)
+GEAcompile	grep/src/search.h	/^extern void *GEAcompile (char *, idx_t, reg_syntax_t, bool);$/;"	p	signature:(char *, idx_t, reg_syntax_t, bool)
+GREP_GREP_H	grep/src/grep.h	21;"	d
+GREP_SEARCH_H	grep/src/search.h	20;"	d
+GREP_SYSTEM_H	grep/src/system.h	20;"	d
+GROUP_SEPARATOR_OPTION	grep/src/grep.c	/^  GROUP_SEPARATOR_OPTION,$/;"	e	enum:__anon6	file:
+G_MATCHER_INDEX	grep/src/grep.c	/^enum { E_MATCHER_INDEX = 1, F_MATCHER_INDEX = 2, G_MATCHER_INDEX = 0 };$/;"	e	enum:__anon16	file:
+HAVE_ASAN	grep/src/system.h	76;"	d
+HEX	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	543;"	d	file:
+HEX	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	543;"	d	file:
+HEX	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	543;"	d	file:
+HOME	grep/dist-check.mk	/^	HOME=$(fake_home); export HOME;			\\$/;"	m
+IGNORE_DUPLICATE_BRANCH_WARNING	grep/src/system.h	121;"	d
+IGNORE_DUPLICATE_BRANCH_WARNING	grep/src/system.h	129;"	d
+INCLUDE_OPTION	grep/src/grep.c	/^  INCLUDE_OPTION,$/;"	e	enum:__anon6	file:
+INITIAL_BUFSIZE	grep/src/grep.c	/^enum { INITIAL_BUFSIZE = 96 * 1024 };$/;"	e	enum:__anon12	file:
+LABEL_OPTION	grep/src/grep.c	/^  LABEL_OPTION,$/;"	e	enum:__anon6	file:
+LINE_BUFFERED_OPTION	grep/src/grep.c	/^  LINE_BUFFERED_OPTION,$/;"	e	enum:__anon6	file:
+LINE_LEN_MAX	grep/cfg.mk	/^LINE_LEN_MAX = 80$/;"	m
+LISTFILES_MATCHING	grep/src/grep.c	/^  LISTFILES_MATCHING,$/;"	e	enum:__anon14	file:
+LISTFILES_NONE	grep/src/grep.c	/^  LISTFILES_NONE,$/;"	e	enum:__anon14	file:
+LISTFILES_NONMATCHING	grep/src/grep.c	/^  LISTFILES_NONMATCHING,$/;"	e	enum:__anon14	file:
+ListNode	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode	03/fast_and_slow_pointer_is_cycle.cpp	/^class ListNode {$/;"	c	file:
+ListNode	03/reverse_private_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	03/reverse_private_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	03/reverse_private_data.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	03/reverse_private_data.cpp	/^class ListNode {$/;"	c	file:
+ListNode	03/reverse_public_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	03/reverse_public_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	03/reverse_public_data.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	03/reverse_public_data.cpp	/^class ListNode {$/;"	c	file:
+ListNode	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^class ListNode {$/;"	c	file:
+ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	algorithm/private_data_reverse_list.cpp	/^class ListNode {$/;"	c	file:
+ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	algorithm/public_data_reverse_list.cpp	/^class ListNode {$/;"	c	file:
+ListNode	algorithm/unordered_set_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	algorithm/unordered_set_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode	algorithm/unordered_set_is_cycle.cpp	/^class ListNode {$/;"	c	file:
+ListNode	stl/reverse_private_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	stl/reverse_private_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	stl/reverse_private_data.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	stl/reverse_private_data.cpp	/^class ListNode {$/;"	c	file:
+ListNode	stl/reverse_public_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode	stl/reverse_public_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode	stl/reverse_public_data.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode	stl/reverse_public_data.cpp	/^class ListNode {$/;"	c	file:
+ListNode::ListNode	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode::ListNode	03/reverse_private_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	03/reverse_private_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	03/reverse_private_data.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::ListNode	03/reverse_public_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	03/reverse_public_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	03/reverse_public_data.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::ListNode	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode::ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	algorithm/private_data_reverse_list.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	algorithm/public_data_reverse_list.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::ListNode	algorithm/unordered_set_is_cycle.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	algorithm/unordered_set_is_cycle.cpp	/^    ListNode(int x, ListNode* n)$/;"	f	class:ListNode	access:public	signature:(int x, ListNode* n)
+ListNode::ListNode	stl/reverse_private_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	stl/reverse_private_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	stl/reverse_private_data.cpp	/^    ListNode(int x,  ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::ListNode	stl/reverse_public_data.cpp	/^    ListNode()$/;"	f	class:ListNode	access:public	signature:()
+ListNode::ListNode	stl/reverse_public_data.cpp	/^    ListNode(int x)$/;"	f	class:ListNode	access:public	signature:(int x)
+ListNode::ListNode	stl/reverse_public_data.cpp	/^    ListNode(int x, ListNode* next) $/;"	f	class:ListNode	access:public	signature:(int x, ListNode* next)
+ListNode::getNext	03/reverse_private_data.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::getNext	algorithm/private_data_reverse_list.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::getNext	stl/reverse_private_data.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::getVal	03/reverse_private_data.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::getVal	algorithm/private_data_reverse_list.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::getVal	stl/reverse_private_data.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+ListNode::next	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::next	03/reverse_private_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+ListNode::next	03/reverse_public_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::next	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::next	algorithm/private_data_reverse_list.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+ListNode::next	algorithm/public_data_reverse_list.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::next	algorithm/unordered_set_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::next	stl/reverse_private_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+ListNode::next	stl/reverse_public_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+ListNode::printList	03/reverse_private_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	03/reverse_private_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::printList	03/reverse_public_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	03/reverse_public_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::printList	algorithm/private_data_reverse_list.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	algorithm/private_data_reverse_list.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::printList	algorithm/public_data_reverse_list.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	algorithm/public_data_reverse_list.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::printList	stl/reverse_private_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	stl/reverse_private_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::printList	stl/reverse_public_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+ListNode::printList	stl/reverse_public_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+ListNode::reverse	03/reverse_private_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	03/reverse_private_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::reverse	03/reverse_public_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	03/reverse_public_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::reverse	algorithm/private_data_reverse_list.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	algorithm/private_data_reverse_list.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::reverse	algorithm/public_data_reverse_list.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	algorithm/public_data_reverse_list.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::reverse	stl/reverse_private_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	stl/reverse_private_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::reverse	stl/reverse_public_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+ListNode::reverse	stl/reverse_public_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+ListNode::setNext	03/reverse_private_data.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+ListNode::setNext	algorithm/private_data_reverse_list.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+ListNode::setNext	stl/reverse_private_data.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+ListNode::setVal	03/reverse_private_data.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+ListNode::setVal	algorithm/private_data_reverse_list.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+ListNode::setVal	stl/reverse_private_data.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+ListNode::val	03/fast_and_slow_pointer_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+ListNode::val	03/reverse_private_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+ListNode::val	03/reverse_public_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+ListNode::val	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+ListNode::val	algorithm/private_data_reverse_list.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+ListNode::val	algorithm/public_data_reverse_list.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+ListNode::val	algorithm/unordered_set_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+ListNode::val	stl/reverse_private_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+ListNode::val	stl/reverse_public_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+NCHAR	grep/src/system.h	/^enum { NCHAR = UCHAR_MAX + 1 };$/;"	e	enum:__anon3
+NO_IGNORE_CASE_OPTION	grep/src/grep.c	/^  NO_IGNORE_CASE_OPTION$/;"	e	enum:__anon6	file:
+N_	grep/src/system.h	42;"	d
+PATH	grep/cfg.mk	/^export PATH := $(builddir)\/src$(PATH_SEPARATOR)$(PATH)$/;"	m
+PCRE2_CODE_UNIT_WIDTH	grep/src/pcresearch.c	23;"	d	file:
+PCRE2_CONFIG_DEPTHLIMIT	grep/src/pcresearch.c	31;"	d	file:
+PCRE2_ERROR_DEPTHLIMIT	grep/src/pcresearch.c	32;"	d	file:
+PCRE2_SIZE_MAX	grep/src/pcresearch.c	28;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+PLATFORM_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+PLATFORM_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+PLATFORM_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+Pcompile	grep/src/pcresearch.c	/^Pcompile (char *pattern, idx_t size, reg_syntax_t ignored, bool exact)$/;"	f	signature:(char *pattern, idx_t size, reg_syntax_t ignored, bool exact)
+Pcompile	grep/src/search.h	/^extern void *Pcompile (char *, idx_t, reg_syntax_t, bool);$/;"	p	signature:(char *, idx_t, reg_syntax_t, bool)
+Pexecute	grep/src/pcresearch.c	/^Pexecute (void *vcp, char const *buf, idx_t size, idx_t *match_size,$/;"	f	signature:(void *vcp, char const *buf, idx_t size, idx_t *match_size, char const *start_ptr)
+Pexecute	grep/src/search.h	/^extern ptrdiff_t Pexecute (void *, char const *, idx_t, idx_t *, char const *);$/;"	p	signature:(void *, char const *, idx_t, idx_t *, char const *)
+Point	stl/main.cpp	/^struct Point { double x, y; };$/;"	s	file:
+Point::x	stl/main.cpp	/^struct Point { double x, y; };$/;"	m	struct:Point	file:	access:public
+Point::y	stl/main.cpp	/^struct Point { double x, y; };$/;"	m	struct:Point	file:	access:public
+PointCmp	stl/main.cpp	/^struct PointCmp {$/;"	s	file:
+PointCmp::operator ()	stl/main.cpp	/^  bool operator()(const Point& lhs, const Point& rhs) const {$/;"	f	struct:PointCmp	access:public	signature:(const Point& lhs, const Point& rhs) const
+READ_COMMAND_LINE_DEVICES	grep/src/grep.c	/^    READ_COMMAND_LINE_DEVICES,$/;"	e	enum:__anon8	file:
+READ_DEVICES	grep/src/grep.c	/^    READ_DEVICES,$/;"	e	enum:__anon8	file:
+READ_DIRECTORIES	grep/src/grep.c	/^    READ_DIRECTORIES = 2,$/;"	e	enum:directories_type	file:
+RECURSE_DIRECTORIES	grep/src/grep.c	/^    RECURSE_DIRECTORIES,$/;"	e	enum:directories_type	file:
+RM	03/build/Makefile	/^RM = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake -E rm -f$/;"	m
+RM	algorithm/build/Makefile	/^RM = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake -E rm -f$/;"	m
+RM	stl/build/Makefile	/^RM = \/data\/cmake-3.18.1-Linux-x86_64\/bin\/cmake -E rm -f$/;"	m
+SEARCH_INLINE	grep/src/search.h	39;"	d
+SEARCH_INLINE	grep/src/searchutils.c	21;"	d	file:
+SEEK_DATA	grep/src/grep.c	/^enum { SEEK_DATA = SEEK_SET };$/;"	e	enum:__anon9	file:
+SEEK_HOLE	grep/src/grep.c	/^enum { SEEK_HOLE = SEEK_SET };$/;"	e	enum:__anon10	file:
+SEP_CHAR_REJECTED	grep/src/grep.c	/^enum { SEP_CHAR_REJECTED = '-' };$/;"	e	enum:__anon5	file:
+SEP_CHAR_SELECTED	grep/src/grep.c	/^enum { SEP_CHAR_SELECTED = ':' };$/;"	e	enum:__anon4	file:
+SEP_STR_GROUP	grep/src/grep.c	/^static char const SEP_STR_GROUP[] = "--";$/;"	v	file:
+SHELL	03/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	algorithm/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	stl/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_PATCH	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+SIMULATE_VERSION_PATCH	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+SIMULATE_VERSION_PATCH	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+SKIP_DEVICES	grep/src/grep.c	/^    SKIP_DEVICES$/;"	e	enum:__anon8	file:
+SKIP_DIRECTORIES	grep/src/grep.c	/^    SKIP_DIRECTORIES$/;"	e	enum:directories_type	file:
+STREQ	grep/src/system.h	58;"	d
+STRINGIFY	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY_HELPER	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+STRINGIFY_HELPER	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+STRINGIFY_HELPER	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+SYSTEM_INLINE	grep/src/searchutils.c	22;"	d	file:
+SYSTEM_INLINE	grep/src/system.h	55;"	d
+Solution	03/fast_and_slow_pointer_is_cycle.cpp	/^class Solution {$/;"	c	file:
+Solution	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^class Solution {$/;"	c	file:
+Solution	algorithm/unordered_set_is_cycle.cpp	/^class Solution {$/;"	c	file:
+Solution::hasCycle	03/fast_and_slow_pointer_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+Solution::hasCycle	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+Solution::hasCycle	algorithm/unordered_set_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+TEXT_BINARY_FILES	grep/src/grep.c	/^  TEXT_BINARY_FILES,$/;"	e	enum:__anon13	file:
+U	grep/src/kwset.c	/^U (char ch)$/;"	f	file:	signature:(char ch)
+VERBOSE	grep/cfg.mk	/^export VERBOSE = yes$/;"	m
+WITHOUT_MATCH_BINARY_FILES	grep/src/grep.c	/^  WITHOUT_MATCH_BINARY_FILES$/;"	e	enum:__anon13	file:
+XZ_OPT	grep/cfg.mk	/^export XZ_OPT = -6e$/;"	m
+_	grep/src/system.h	43;"	d
+__anon15::compile	grep/src/grep.c	/^  compile_fp_t compile;$/;"	m	struct:__anon15	file:	access:public
+__anon15::execute	grep/src/grep.c	/^  execute_fp_t execute;$/;"	m	struct:__anon15	file:	access:public
+__anon15::name	grep/src/grep.c	/^  char name[12];$/;"	m	struct:__anon15	file:	access:public
+__anon15::syntax	grep/src/grep.c	/^  int syntax; \/* used if compile == GEAcompile *\/$/;"	m	struct:__anon15	file:	access:public
+__asan_poison_memory_region	grep/src/system.h	/^void __asan_poison_memory_region (void const volatile *addr, size_t size);$/;"	p	signature:(void const volatile *addr, size_t size)
+__asan_unpoison_memory_region	grep/src/system.h	/^void __asan_unpoison_memory_region (void const volatile *addr, size_t size);$/;"	p	signature:(void const volatile *addr, size_t size)
+__has_feature	grep/src/system.h	72;"	d
+_at_replace	grep/tests/Coreutils.pm	/^sub _at_replace ($$)$/;"	s
+_compare_files	grep/tests/Coreutils.pm	/^sub _compare_files ($$$$$)$/;"	s
+_create_file	grep/tests/Coreutils.pm	/^sub _create_file ($$$$)$/;"	s
+_gl_TS_unmarked_extern_functions	grep/cfg.mk	/^_gl_TS_unmarked_extern_functions = \\$/;"	m
+_process_file_spec	grep/tests/Coreutils.pm	/^sub _process_file_spec ($$$$$)$/;"	s
+_shell_quote	grep/tests/Coreutils.pm	/^sub _shell_quote ($)$/;"	s
+accepting	grep/src/kwset.c	/^  ptrdiff_t accepting;$/;"	m	struct:trie	file:	access:public
+acexec	grep/src/kwset.c	/^acexec (kwset_t kwset, char const *text, idx_t size,$/;"	f	file:	signature:(kwset_t kwset, char const *text, idx_t size, struct kwsmatch *kwsmatch, bool longest)
+acexec	grep/src/kwset.c	/^static ptrdiff_t acexec (kwset_t, char const *, idx_t,$/;"	p	file:	signature:(kwset_t, char const *, idx_t, struct kwsmatch *, bool)
+acexec_trans	grep/src/kwset.c	/^acexec_trans (kwset_t kwset, char const *text, idx_t len,$/;"	f	file:	signature:(kwset_t kwset, char const *text, idx_t len, struct kwsmatch *kwsmatch, bool longest)
+add_count	grep/src/grep.c	/^add_count (intmax_t a, idx_t b)$/;"	f	file:	signature:(intmax_t a, idx_t b)
+after_last_match	grep/src/grep.c	/^static off_t after_last_match;	\/* Pointer after last matching line that$/;"	v	file:
+aid_setup	grep/tests/help-version	/^aid_setup () { args=f; }$/;"	f
+align_tabs	grep/src/grep.c	/^static bool align_tabs;$/;"	v	file:
+all_zeros	grep/src/grep.c	/^all_zeros (char const *buf, idx_t size)$/;"	f	file:	signature:(char const *buf, idx_t size)
+amtar_extract_	grep/dist-check.mk	/^amtar_extract_ = $(AMTAR) -$(tar_decompress_opt_)xf$/;"	m
+announcement_Cc_	grep/cfg.mk	/^announcement_Cc_ = $(translation_project_), $(PACKAGE)-devel@gnu.org$/;"	m
+asan_poison	grep/src/grep.c	/^asan_poison (void const *addr, idx_t size)$/;"	f	file:	signature:(void const *addr, idx_t size)
+asan_poison	grep/src/grep.c	/^static void asan_poison (void const volatile *addr, idx_t size) { }$/;"	f	file:	signature:(void const volatile *addr, idx_t size)
+bad_utf8_from_pcre2	grep/src/pcresearch.c	/^bad_utf8_from_pcre2 (int e)$/;"	f	file:	signature:(int e)
+balance	grep/src/kwset.c	/^  char balance;			\/* Difference in depths of subtrees.  *\/$/;"	m	struct:tree	file:	access:public
+basename_setup	grep/tests/help-version	/^basename_setup () { args=$tmp_in; }$/;"	f
+basic_fts_options	grep/src/grep.c	/^enum { basic_fts_options = FTS_CWDFD | FTS_NOSTAT | FTS_TIGHT_CYCLE_CHECK };$/;"	e	enum:__anon7	file:
+begline	grep/src/dfasearch.c	/^  bool begline;$/;"	m	struct:dfa_comp	file:	access:public
+bin	grep/dist-check.mk	/^bin=bin-$$$\$$/;"	m
+binary	grep/src/grep.c	/^static bool binary;		\/* Use binary rather than text I\/O.  *\/$/;"	v	file:
+binary_files	grep/src/grep.c	/^} binary_files;		\/* How to handle binary files.  *\/$/;"	v	typeref:enum:__anon13	file:
+bm_delta2_search	grep/src/kwset.c	/^bm_delta2_search (char const **tpp, char const *ep, char const *sp,$/;"	f	file:	signature:(char const **tpp, char const *ep, char const *sp, idx_t len, char const *trans, char gc1, char gc2, unsigned char const *d1, kwset_t kwset)
+bmexec	grep/src/kwset.c	/^bmexec (kwset_t kwset, char const *text, idx_t size,$/;"	f	file:	signature:(kwset_t kwset, char const *text, idx_t size, struct kwsmatch *kwsmatch, bool longest)
+bmexec	grep/src/kwset.c	/^static ptrdiff_t bmexec (kwset_t, char const *, idx_t,$/;"	p	file:	signature:(kwset_t, char const *, idx_t, struct kwsmatch *, bool)
+bmexec_trans	grep/src/kwset.c	/^bmexec_trans (kwset_t kwset, char const *text, idx_t size)$/;"	f	file:	signature:(kwset_t kwset, char const *text, idx_t size)
+bootstrap-tools	grep/cfg.mk	/^bootstrap-tools = autoconf,automake,gnulib$/;"	m
+bootstrap_epilogue	grep/bootstrap	/^bootstrap_epilogue() { :; }$/;"	f
+bootstrap_option_hook	grep/bootstrap	/^bootstrap_option_hook() { return 1; }$/;"	f
+bootstrap_post_import_hook	grep/bootstrap	/^bootstrap_post_import_hook() { :; }$/;"	f
+bootstrap_print_option_usage_hook	grep/bootstrap	/^bootstrap_print_option_usage_hook() { :; }$/;"	f
+buf_has_encoding_errors	grep/src/grep.c	/^buf_has_encoding_errors (char *buf, idx_t size)$/;"	f	file:	signature:(char *buf, idx_t size)
+buf_has_nulls	grep/src/grep.c	/^buf_has_nulls (char *buf, idx_t size)$/;"	f	file:	signature:(char *buf, idx_t size)
+bufalloc	grep/src/grep.c	/^static idx_t bufalloc;		\/* Allocated buffer size, counting slop. *\/$/;"	v	file:
+bufbeg	grep/src/grep.c	/^static char *bufbeg;		\/* Beginning of user-visible stuff. *\/$/;"	v	file:
+bufdesc	grep/src/grep.c	/^static int bufdesc;		\/* File descriptor. *\/$/;"	v	file:
+buffer	grep/src/grep.c	/^static char *buffer;		\/* Base of buffer. *\/$/;"	v	file:
+buflim	grep/src/grep.c	/^static char *buflim;		\/* Limit of user-visible stuff. *\/$/;"	v	file:
+bufoffset	grep/src/grep.c	/^static off_t bufoffset;		\/* Read offset.  *\/$/;"	v	file:
+built_programs	grep/dist-check.mk	/^built_programs =						\\$/;"	m
+byte_num_color	grep/src/grep.c	/^static const char *byte_num_color = "32";	\/* green *\/$/;"	v	file:
+check_char	grep/tests/hangul-syllable	/^check_char ()$/;"	f
+check_exists	grep/bootstrap	/^check_exists() {$/;"	f
+check_nonchar	grep/tests/hangul-syllable	/^check_nonchar ()$/;"	f
+check_versions	grep/bootstrap	/^check_versions() {$/;"	f
+chgrp_setup	grep/tests/help-version	/^chgrp_setup () { args=--version; }$/;"	f
+chmod_1	grep/tests/CuTmpdir.pm	/^sub chmod_1$/;"	s
+chmod_setup	grep/tests/help-version	/^chmod_setup () { args="a+x $tmp_in"; }$/;"	f
+chmod_tree	grep/tests/CuTmpdir.pm	/^sub chmod_tree$/;"	s
+chown_setup	grep/tests/help-version	/^chown_setup () { args=--version; }$/;"	f
+clean_up_stdout	grep/src/grep.c	/^clean_up_stdout (void)$/;"	f	file:	signature:(void)
+cleanup	grep/tests/Coreutils.pm	/^    cleanup:$/;"	l
+cleanup_	grep/tests/help-version	/^cleanup_() { kill $pid 2>\/dev\/null && wait $pid; }$/;"	f
+cleanup_	grep/tests/init.sh	/^cleanup_ () { :; }$/;"	f
+cleanup_gnulib	grep/bootstrap	/^cleanup_gnulib() {$/;"	f
+clear_asan_poison	grep/src/grep.c	/^clear_asan_poison (void)$/;"	f	file:	signature:(void)
+clear_asan_poison	grep/src/grep.c	/^static void clear_asan_poison (void) { }$/;"	f	file:	signature:(void)
+cmp_setup	grep/tests/help-version	/^cmp_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+color_cap	grep/src/grep.c	/^struct color_cap$/;"	s	file:
+color_cap::fct	grep/src/grep.c	/^    void (*fct) (void);$/;"	m	struct:color_cap	file:	access:public
+color_cap::name	grep/src/grep.c	/^    const char *name;$/;"	m	struct:color_cap	file:	access:public
+color_cap::var	grep/src/grep.c	/^    const char **var;$/;"	m	struct:color_cap	file:	access:public
+color_cap_mt_fct	grep/src/grep.c	/^color_cap_mt_fct (void)$/;"	f	file:	signature:(void)
+color_cap_ne_fct	grep/src/grep.c	/^color_cap_ne_fct (void)$/;"	f	file:	signature:(void)
+color_cap_rv_fct	grep/src/grep.c	/^color_cap_rv_fct (void)$/;"	f	file:	signature:(void)
+color_dict	grep/src/grep.c	/^static const struct color_cap color_dict[] =$/;"	v	typeref:struct:color_cap	file:
+color_option	grep/src/grep.c	/^static int color_option;$/;"	v	file:
+comm_setup	grep/tests/help-version	/^comm_setup () { args="$tmp_in $tmp_in"; }$/;"	f
+compare	grep/tests/init.sh	/^compare ()$/;"	f
+compare	stl/array_bsearch.cpp	/^int compare(const void *a, const void *b) {$/;"	f	signature:(const void *a, const void *b)
+compare_	grep/tests/init.sh	/^    compare_ () { diff $diff_opt_ "$@"; }$/;"	f
+compare_	grep/tests/init.sh	/^    compare_ ()$/;"	f
+compare_	grep/tests/init.sh	/^  compare_ () { cmp "$@"; }$/;"	f
+compare_	grep/tests/init.sh	/^  compare_ () { cmp -s "$@"; }$/;"	f
+compare_dev_null_	grep/tests/init.sh	/^compare_dev_null_ ()$/;"	f
+compare_patterns	grep/src/grep.c	/^compare_patterns (void const *a, void const *b)$/;"	f	file:	signature:(void const *a, void const *b)
+compile	grep/src/grep.c	/^  compile_fp_t compile;$/;"	m	struct:__anon15	file:	access:public
+compile_fp_t	grep/src/grep.c	/^typedef void *(*compile_fp_t) (char *, idx_t, reg_syntax_t, bool);$/;"	t	file:
+compiled_pattern	grep/src/grep.c	/^static void *compiled_pattern;$/;"	v	file:
+contains_encoding_error	grep/src/grep.c	/^contains_encoding_error (char const *pat, idx_t patlen)$/;"	f	file:	signature:(char const *pat, idx_t patlen)
+context_length_arg	grep/src/grep.c	/^context_length_arg (char const *str, intmax_t *out)$/;"	f	file:	signature:(char const *str, intmax_t *out)
+context_line_color	grep/src/grep.c	/^static const char *context_line_color  = "";	\/* default color pair *\/$/;"	v	file:
+context_match_color	grep/src/grep.c	/^static const char *context_match_color  = "01;31";	\/* bold red *\/$/;"	v	file:
+coreutils-path-check	grep/dist-check.mk	/^define coreutils-path-check$/;"	m
+count	03/simple_template_class.cpp	/^    size_t count = 0;$/;"	m	class:A	file:	access:private
+count	stl/simple_template_class.cpp	/^    size_t count = 0;$/;"	m	class:A	file:	access:private
+count_matches	grep/src/grep.c	/^static bool count_matches;	\/* Count matching lines.  *\/$/;"	v	file:
+cp_setup	grep/tests/help-version	/^cp_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+cre	grep/src/pcresearch.c	/^  pcre2_code *cre;$/;"	m	struct:pcre_comp	file:	access:public
+create_exe_shims_	grep/tests/init.sh	/^create_exe_shims_ ()$/;"	f
+csplit_setup	grep/tests/help-version	/^csplit_setup () { args="$tmp_in \/\/"; }$/;"	f
+cut_setup	grep/tests/help-version	/^cut_setup () { args='-f 1'; }$/;"	f
+d	03/composition_object.cpp	/^  int d;$/;"	m	class:Cellphone	file:	access:private
+data	grep/src/pcresearch.c	/^  pcre2_match_data *data;$/;"	m	struct:pcre_comp	file:	access:public
+dd_setup	grep/tests/help-version	/^dd_setup () { args=status=noxfer; }$/;"	f
+defid_setup	grep/tests/help-version	/^defid_setup () { args=t; }$/;"	f
+delta	grep/src/kwset.c	/^  unsigned char delta[NCHAR];	\/* Delta table for rapid search.  *\/$/;"	m	struct:kwset	file:	access:public
+depth	grep/src/kwset.c	/^  idx_t depth;			\/* Depth of this node from the root.  *\/$/;"	m	struct:trie	file:	access:public
+dev_null_output	grep/src/grep.c	/^static bool dev_null_output;	\/* Stdout is known to be \/dev\/null.  *\/$/;"	v	file:
+devices	grep/src/grep.c	/^  } devices = READ_COMMAND_LINE_DEVICES;$/;"	v	typeref:enum:__anon8	file:
+df_setup	grep/tests/help-version	/^df_setup () { args=\/; }$/;"	f
+dfa	grep/src/dfasearch.c	/^  struct dfa *dfa;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::dfa	file:	access:public
+dfa_comp	grep/src/dfasearch.c	/^struct dfa_comp$/;"	s	file:
+dfa_comp::begline	grep/src/dfasearch.c	/^  bool begline;$/;"	m	struct:dfa_comp	file:	access:public
+dfa_comp::dfa	grep/src/dfasearch.c	/^  struct dfa *dfa;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::dfa	file:	access:public
+dfa_comp::kwset	grep/src/dfasearch.c	/^  kwset_t kwset;$/;"	m	struct:dfa_comp	file:	access:public
+dfa_comp::kwset_exact_matches	grep/src/dfasearch.c	/^  idx_t kwset_exact_matches;$/;"	m	struct:dfa_comp	file:	access:public
+dfa_comp::patterns	grep/src/dfasearch.c	/^  struct re_pattern_buffer *patterns;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::re_pattern_buffer	file:	access:public
+dfa_comp::pcount	grep/src/dfasearch.c	/^  idx_t pcount;$/;"	m	struct:dfa_comp	file:	access:public
+dfa_comp::regs	grep/src/dfasearch.c	/^  struct re_registers regs;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::re_registers	file:	access:public
+dfaerror	grep/src/dfasearch.c	/^dfaerror (char const *mesg)$/;"	f	signature:(char const *mesg)
+dfawarn	grep/src/dfasearch.c	/^dfawarn (char const *mesg)$/;"	f	signature:(char const *mesg)
+die	grep/bootstrap	/^die() { warn_ "$@"; exit 1; }$/;"	f
+die	grep/src/die.h	28;"	d
+diff3_setup	grep/tests/help-version	/^diff3_setup () { args="$tmp_in $tmp_in2 $tmp_in2"; }$/;"	f
+diff_setup	grep/tests/help-version	/^diff_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+directories	grep/src/grep.c	/^static enum directories_type directories = READ_DIRECTORIES;$/;"	v	typeref:enum:directories_type	file:
+directories_args	grep/src/grep.c	/^static char const *const directories_args[] =$/;"	v	file:
+directories_type	grep/src/grep.c	/^enum directories_type$/;"	g	file:
+directories_types	grep/src/grep.c	/^static enum directories_type const directories_types[] =$/;"	v	file:
+dirname_setup	grep/tests/help-version	/^dirname_setup () { args=$tmp_in; }$/;"	f
+done_on_match	grep/src/grep.c	/^static bool done_on_match;	\/* Stop scanning file on first match.  *\/$/;"	v	file:
+download_po_files	grep/bootstrap	/^download_po_files() {$/;"	f
+drain_input	grep/src/grep.c	/^drain_input (int fd, struct stat const *st)$/;"	f	file:	signature:(int fd, struct stat const *st)
+egrep_setup	grep/tests/help-version	/^egrep_setup () { args="0 $tmp_in"; }$/;"	f
+eid_setup	grep/tests/help-version	/^eid_setup () { args=--version; }$/;"	f
+emit_diff_u_header_	grep/tests/init.sh	/^emit_diff_u_header_ ()$/;"	f
+empty_match	grep/src/pcresearch.c	/^  int empty_match[2];$/;"	m	struct:pcre_comp	file:	access:public
+encode	grep/tests/fgrep-infloop	/^encode() { echo "$1" | tr ABC '\\357\\274\\241'; }$/;"	f
+encode	grep/tests/invalid-multibyte-infloop	/^encode() { echo "$1" | tr A '\\202'; }$/;"	f
+encode	grep/tests/prefix-of-multibyte	/^encode() { echo "$1" | tr ABC '\\357\\274\\241'; }$/;"	f
+encode	grep/tests/sjis-mb	/^encode() { echo "$1" | tr @% '\\203\\301'; }$/;"	f
+encoding_error_output	grep/src/grep.c	/^static bool encoding_error_output;$/;"	v	file:
+enqueue	grep/src/kwset.c	/^enqueue (struct tree *tree, struct trie **last)$/;"	f	file:	signature:(struct tree *tree, struct trie **last)
+eolbyte	grep/src/grep.c	/^char eolbyte;$/;"	v
+errseen	grep/src/grep.c	/^static bool errseen;$/;"	v	file:
+euc_grep	grep/tests/euc-mb	/^euc_grep () {$/;"	f
+exclude_file_name_regexp--sc_bindtextdomain	grep/cfg.mk	/^exclude_file_name_regexp--sc_bindtextdomain = \\$/;"	m
+exclude_file_name_regexp--sc_long_lines	grep/cfg.mk	/^exclude_file_name_regexp--sc_long_lines = ^tests\/.*$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_doubled_word	grep/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_doubled_word = ^tests\/count-newline$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_strcmp	grep/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_strcmp = \/colorize-.*\\.c$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_tab_based_indentation	grep/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_tab_based_indentation = \\$/;"	m
+exclude_file_name_regexp--sc_prohibit_xalloc_without_use	grep/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_xalloc_without_use = ^src\/kwset\\.c$\$$/;"	m
+exclude_options	grep/src/grep.c	/^exclude_options (bool command_line)$/;"	f	file:	signature:(bool command_line)
+excluded_directory_patterns	grep/src/grep.c	/^static struct exclude *excluded_directory_patterns[2];$/;"	v	typeref:struct:exclude	file:
+excluded_patterns	grep/src/grep.c	/^static struct exclude *excluded_patterns[2];$/;"	v	typeref:struct:exclude	file:
+execute	grep/src/grep.c	/^  execute_fp_t execute;$/;"	m	struct:__anon15	file:	access:public
+execute	grep/src/grep.c	/^static execute_fp_t execute;$/;"	v	file:
+execute_fp_t	grep/src/grep.c	/^typedef ptrdiff_t (*execute_fp_t) (void *, char const *, idx_t, idx_t *,$/;"	t	file:
+exit_on_match	grep/src/grep.c	/^static bool exit_on_match;	\/* Exit on first match.  *\/$/;"	v	file:
+expr_setup	grep/tests/help-version	/^expr_setup () { args=foo; }$/;"	f
+f_dash_local_fail_	grep/tests/init.sh	/^f_dash_local_fail_() { local t=$(printf " 1"); }; f_dash_local_fail_$/;"	f
+f_local_	grep/tests/init.sh	/^f_local_() { local v=1; }; f_local_ || exit 1$/;"	f
+fail	grep/src/kwset.c	/^  struct trie *fail;		\/* Aho-Corasick failure function.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+fail	grep/tests/fedora	/^fail () { printf "${R}FAIL${D} (See ${U})"; failures=1; }$/;"	f
+fail_	grep/tests/init.sh	/^fail_ () { warn_ "$ME_: failed test: $@"; Exit 1; }$/;"	f
+fake_home	grep/dist-check.mk	/^fake_home = $(tp)\/home$/;"	m
+fatal_	grep/tests/init.sh	/^fatal_ () { warn_ "$ME_: hard error: $@"; Exit 99; }$/;"	f
+fct	grep/src/grep.c	/^    void (*fct) (void);$/;"	m	struct:color_cap	file:	access:public
+fflush_errno	grep/src/grep.c	/^fflush_errno (void)$/;"	f	file:	signature:(void)
+fgrep_icase_available	grep/src/grep.c	/^fgrep_icase_available (char const *pat, idx_t patlen)$/;"	f	file:	signature:(char const *pat, idx_t patlen)
+fgrep_icase_charlen	grep/src/grep.c	/^fgrep_icase_charlen (char const *pat, idx_t patlen, mbstate_t *mbs)$/;"	f	file:	signature:(char const *pat, idx_t patlen, mbstate_t *mbs)
+fgrep_setup	grep/tests/help-version	/^fgrep_setup () { args="0 $tmp_in"; }$/;"	f
+fgrep_to_grep_pattern	grep/src/grep.c	/^fgrep_to_grep_pattern (char **keys_p, idx_t *len_p)$/;"	f	signature:(char **keys_p, idx_t *len_p)
+fgrep_to_grep_pattern	grep/src/search.h	/^extern void fgrep_to_grep_pattern (char **, idx_t *);$/;"	p	signature:(char **, idx_t *)
+fid_setup	grep/tests/help-version	/^fid_setup () { args=f.c; }$/;"	f
+file_must_have_nulls	grep/src/grep.c	/^file_must_have_nulls (idx_t size, int fd, struct stat const *st)$/;"	f	file:	signature:(idx_t size, int fd, struct stat const *st)
+fileline	grep/src/grep.c	/^    idx_t fileline;$/;"	m	struct:patloc	file:	access:public
+filename	grep/src/grep.c	/^    char const *filename;$/;"	m	struct:patloc	file:	access:public
+filename	grep/src/grep.c	/^static char const *filename;$/;"	v	file:
+filename_color	grep/src/grep.c	/^static const char *filename_color = "35";	\/* magenta *\/$/;"	v	file:
+filename_mask	grep/src/grep.c	/^static int filename_mask;	\/* If zero, output nulls after filenames.  *\/$/;"	v	file:
+fillbuf	grep/src/grep.c	/^fillbuf (idx_t save, struct stat const *st)$/;"	f	file:	signature:(idx_t save, struct stat const *st)
+finalize_input	grep/src/grep.c	/^finalize_input (int fd, struct stat const *st, bool ineof)$/;"	f	file:	signature:(int fd, struct stat const *st, bool ineof)
+find_exe_basenames_	grep/tests/init.sh	/^find_exe_basenames_ ()$/;"	f
+find_tool	grep/bootstrap	/^find_tool ()$/;"	f
+fnid_setup	grep/tests/help-version	/^fnid_setup () { args=; }$/;"	f
+fputs_errno	grep/src/grep.c	/^fputs_errno (char const *s)$/;"	f	file:	signature:(char const *s)
+framework_failure_	grep/tests/init.sh	/^framework_failure_ () { warn_ "$ME_: set-up failure: $@"; Exit 99; }$/;"	f
+fts_options	grep/src/grep.c	/^static int fts_options = basic_fts_options | FTS_COMFOLLOW | FTS_PHYSICAL;$/;"	v	file:
+func1	03/inheritance.cpp	/^  void func1() const;$/;"	p	class:A	file:	access:public	signature:() const
+func1	stl/inheritance.cpp	/^  void func1() const;$/;"	p	class:A	file:	access:public	signature:() const
+func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:A	file:	access:public	signature:() const
+func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:B	file:	access:public	signature:() const
+func2	03/inheritance.cpp	/^  void func2() const;$/;"	p	class:C	file:	access:public	signature:() const
+func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:A	file:	access:public	signature:() const
+func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:B	file:	access:public	signature:() const
+func2	stl/inheritance.cpp	/^  void func2() const;$/;"	p	class:C	file:	access:public	signature:() const
+fwrite_errno	grep/src/grep.c	/^fwrite_errno (void const *ptr, idx_t size, idx_t nmemb)$/;"	f	file:	signature:(void const *ptr, idx_t size, idx_t nmemb)
+gc1	grep/src/kwset.c	/^  int gc1;$/;"	m	struct:kwset	file:	access:public
+gc1help	grep/src/kwset.c	/^  int gc1help;$/;"	m	struct:kwset	file:	access:public
+gc2	grep/src/kwset.c	/^  char gc2;$/;"	m	struct:kwset	file:	access:public
+gcontext	grep/src/pcresearch.c	/^  pcre2_general_context *gcontext;$/;"	m	struct:pcre_comp	file:	access:public
+generic-path-check	grep/dist-check.mk	/^define generic-path-check$/;"	m
+get	03/simple_template_class.cpp	/^    T get();$/;"	p	class:A	file:	access:public	signature:()
+get	03/simple_template_class.cpp	/^T A<T>::get() {$/;"	f	class:A	signature:()
+get	stl/simple_template_class.cpp	/^    T get();$/;"	p	class:A	file:	access:public	signature:()
+get	stl/simple_template_class.cpp	/^T A<T>::get() {$/;"	f	class:A	signature:()
+getNext	03/reverse_private_data.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+getNext	algorithm/private_data_reverse_list.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+getNext	stl/reverse_private_data.cpp	/^    ListNode* getNext() {$/;"	f	class:ListNode	access:public	signature:()
+getVal	03/reverse_private_data.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+getVal	algorithm/private_data_reverse_list.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+getVal	stl/reverse_private_data.cpp	/^    int getVal() {$/;"	f	class:ListNode	access:public	signature:()
+get_nondigit_option	grep/src/grep.c	/^get_nondigit_option (int argc, char *const *argv, intmax_t *default_context)$/;"	f	file:	signature:(int argc, char *const *argv, intmax_t *default_context)
+get_version	grep/bootstrap	/^get_version() {$/;"	f
+getlimits	grep/tests/Coreutils.pm	/^sub getlimits()$/;"	s
+gid_setup	grep/tests/help-version	/^gid_setup () { args=f; }$/;"	f
+ginstall_setup	grep/tests/help-version	/^ginstall_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+git_modules_config	grep/bootstrap	/^git_modules_config () {$/;"	f
+gitignore_entries	grep/bootstrap	/^gitignore_entries() {$/;"	f
+grep	grep/src/grep.c	/^grep (int fd, struct stat const *st, bool *ineof)$/;"	f	file:	signature:(int fd, struct stat const *st, bool *ineof)
+grep_command_line_arg	grep/src/grep.c	/^grep_command_line_arg (char const *arg)$/;"	f	file:	signature:(char const *arg)
+grep_setup	grep/tests/help-version	/^grep_setup () { args="0 $tmp_in"; }$/;"	f
+grep_test	grep/tests/foad1	/^grep_test ()$/;"	f
+grepbuf	grep/src/grep.c	/^grepbuf (char *beg, char const *lim)$/;"	f	file:	signature:(char *beg, char const *lim)
+grepdesc	grep/src/grep.c	/^grepdesc (int desc, bool command_line)$/;"	f	file:	signature:(int desc, bool command_line)
+grepdesc	grep/src/grep.c	/^static bool grepdesc (int, bool);$/;"	p	file:	signature:(int, bool)
+grepdirent	grep/src/grep.c	/^grepdirent (FTS *fts, FTSENT *ent, bool command_line)$/;"	f	file:	signature:(FTS *fts, FTSENT *ent, bool command_line)
+grepfile	grep/src/grep.c	/^grepfile (int dirdesc, char const *name, bool follow, bool command_line)$/;"	f	file:	signature:(int dirdesc, char const *name, bool follow, bool command_line)
+grepfile	grep/src/grep.c	/^static bool grepfile (int, char const *, bool, bool);$/;"	p	file:	signature:(int, char const *, bool, bool)
+group_separator	grep/src/grep.c	/^static const char *group_separator = SEP_STR_GROUP;$/;"	v	file:
+groups_setup	grep/tests/help-version	/^groups_setup () { args=--version; }$/;"	f
+gunzip_setup	grep/tests/help-version	/^gunzip_setup () { args=$zin; }$/;"	f
+gzexe_setup	grep/tests/help-version	/^gzexe_setup () { args=$tmp_in; }$/;"	f
+hasCycle	03/fast_and_slow_pointer_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+hasCycle	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+hasCycle	algorithm/unordered_set_is_cycle.cpp	/^    bool hasCycle(ListNode* head) {$/;"	f	class:Solution	access:public	signature:(ListNode* head)
+hasevery	grep/src/kwset.c	/^hasevery (struct tree const *a, struct tree const *b)$/;"	f	file:	signature:(struct tree const *a, struct tree const *b)
+hash_pattern	grep/src/grep.c	/^hash_pattern (void const *pat, size_t n_buckets)$/;"	f	file:	signature:(void const *pat, size_t n_buckets)
+hstdout	grep/lib/colorize-w32.c	/^static HANDLE hstdout = INVALID_HANDLE_VALUE;$/;"	v	file:
+id_setup	grep/tests/help-version	/^id_setup () { args=-u; }$/;"	f
+imbrlen	grep/src/search.h	/^imbrlen (char const *s, idx_t n, mbstate_t *mbs)$/;"	f	signature:(char const *s, idx_t n, mbstate_t *mbs)
+import	grep/tests/CuTmpdir.pm	/^sub import {$/;"	s
+index	grep/src/kwset.h	/^  idx_t index;	\/* Index number of matching keyword.  *\/$/;"	m	struct:kwsmatch	access:public
+info_arch	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+init_colorize	grep/lib/colorize-posix.c	/^void init_colorize (void) { }$/;"	f	signature:(void)
+init_colorize	grep/lib/colorize-w32.c	/^init_colorize (void)$/;"	f	signature:(void)
+init_colorize	grep/lib/colorize.h	/^extern void init_colorize (void);$/;"	p	signature:(void)
+initialize_main	grep/src/system.h	48;"	d
+initialize_unibyte_mask	grep/src/grep.c	/^initialize_unibyte_mask (void)$/;"	f	file:	signature:(void)
+input_filename	grep/src/grep.c	/^input_filename (void)$/;"	f	signature:(void)
+input_filename	grep/src/search.h	/^extern char const *input_filename (void);$/;"	p	signature:(void)
+insert_if_absent	grep/bootstrap	/^insert_if_absent() {$/;"	f
+insert_vc_ignore	grep/bootstrap	/^insert_vc_ignore() {$/;"	f
+install-transform-check	grep/dist-check.mk	/^define install-transform-check$/;"	m
+is_device_mode	grep/src/grep.c	/^is_device_mode (mode_t m)$/;"	f	file:	signature:(mode_t m)
+jit_exec	grep/src/pcresearch.c	/^jit_exec (struct pcre_comp *pc, char const *subject, idx_t search_bytes,$/;"	f	file:	signature:(struct pcre_comp *pc, char const *subject, idx_t search_bytes, idx_t search_offset, int options)
+jit_stack	grep/src/pcresearch.c	/^  pcre2_jit_stack *jit_stack;$/;"	m	struct:pcre_comp	file:	access:public
+jit_stack_size	grep/src/pcresearch.c	/^  idx_t jit_stack_size;$/;"	m	struct:pcre_comp	file:	access:public
+join_setup	grep/tests/help-version	/^join_setup () { args="$tmp_in $tmp_in"; }$/;"	f
+kill_setup	grep/tests/help-version	/^kill_setup () {$/;"	f
+kwsalloc	grep/src/kwset.c	/^kwsalloc (char const *trans)$/;"	f	signature:(char const *trans)
+kwsalloc	grep/src/kwset.h	/^extern kwset_t kwsalloc (char const *);$/;"	p	signature:(char const *)
+kwsearch	grep/src/kwsearch.c	/^struct kwsearch$/;"	s	file:
+kwsearch::kwset	grep/src/kwsearch.c	/^  kwset_t kwset;$/;"	m	struct:kwsearch	file:	access:public
+kwsearch::pattern	grep/src/kwsearch.c	/^  char *pattern;$/;"	m	struct:kwsearch	file:	access:public
+kwsearch::re	grep/src/kwsearch.c	/^  void *re;$/;"	m	struct:kwsearch	file:	access:public
+kwsearch::size	grep/src/kwsearch.c	/^  idx_t size;$/;"	m	struct:kwsearch	file:	access:public
+kwsearch::words	grep/src/kwsearch.c	/^  idx_t words;$/;"	m	struct:kwsearch	file:	access:public
+kwset	grep/src/dfasearch.c	/^  kwset_t kwset;$/;"	m	struct:dfa_comp	file:	access:public
+kwset	grep/src/kwsearch.c	/^  kwset_t kwset;$/;"	m	struct:kwsearch	file:	access:public
+kwset	grep/src/kwset.c	/^struct kwset$/;"	s	file:
+kwset::delta	grep/src/kwset.c	/^  unsigned char delta[NCHAR];	\/* Delta table for rapid search.  *\/$/;"	m	struct:kwset	file:	access:public
+kwset::gc1	grep/src/kwset.c	/^  int gc1;$/;"	m	struct:kwset	file:	access:public
+kwset::gc1help	grep/src/kwset.c	/^  int gc1help;$/;"	m	struct:kwset	file:	access:public
+kwset::gc2	grep/src/kwset.c	/^  char gc2;$/;"	m	struct:kwset	file:	access:public
+kwset::kwsexec	grep/src/kwset.c	/^  ptrdiff_t (*kwsexec) (kwset_t, char const *, idx_t, struct kwsmatch *, bool);$/;"	m	struct:kwset	file:	access:public
+kwset::mind	grep/src/kwset.c	/^  idx_t mind;			\/* Minimum depth of an accepting node.  *\/$/;"	m	struct:kwset	file:	access:public
+kwset::next	grep/src/kwset.c	/^  struct trie *next[NCHAR];	\/* Table of children of the root.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::trie	file:	access:public
+kwset::obstack	grep/src/kwset.c	/^  struct obstack obstack;	\/* Obstack for node allocation.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::obstack	file:	access:public
+kwset::shift	grep/src/kwset.c	/^  idx_t *shift;			\/* Used in Boyer-Moore search for one$/;"	m	struct:kwset	file:	access:public
+kwset::target	grep/src/kwset.c	/^  char *target;			\/* Target string if there's only one.  *\/$/;"	m	struct:kwset	file:	access:public
+kwset::trans	grep/src/kwset.c	/^  char const *trans;		\/* Character translation table.  *\/$/;"	m	struct:kwset	file:	access:public
+kwset::trie	grep/src/kwset.c	/^  struct trie *trie;		\/* The trie itself.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::trie	file:	access:public
+kwset::words	grep/src/kwset.c	/^  idx_t words;			\/* Number of words in the trie.  *\/$/;"	m	struct:kwset	file:	access:public
+kwset_exact_matches	grep/src/dfasearch.c	/^  idx_t kwset_exact_matches;$/;"	m	struct:dfa_comp	file:	access:public
+kwset_t	grep/src/kwset.h	/^typedef struct kwset *kwset_t;$/;"	t	typeref:struct:kwset
+kwsexec	grep/src/kwset.c	/^  ptrdiff_t (*kwsexec) (kwset_t, char const *, idx_t, struct kwsmatch *, bool);$/;"	m	struct:kwset	file:	access:public
+kwsexec	grep/src/kwset.c	/^kwsexec (kwset_t kwset, char const *text, idx_t size,$/;"	f	signature:(kwset_t kwset, char const *text, idx_t size, struct kwsmatch *kwsmatch, bool longest)
+kwsfree	grep/src/kwset.c	/^kwsfree (kwset_t kwset)$/;"	f	signature:(kwset_t kwset)
+kwsfree	grep/src/kwset.h	/^extern void kwsfree (kwset_t);$/;"	p	signature:(kwset_t)
+kwsincr	grep/src/kwset.c	/^kwsincr (kwset_t kwset, char const *text, idx_t len)$/;"	f	signature:(kwset_t kwset, char const *text, idx_t len)
+kwsincr	grep/src/kwset.h	/^extern void kwsincr (kwset_t, char const *, idx_t);$/;"	p	signature:(kwset_t, char const *, idx_t)
+kwsinit	grep/src/search.h	/^extern kwset_t kwsinit (bool);$/;"	p	signature:(bool)
+kwsinit	grep/src/searchutils.c	/^kwsinit (bool mb_trans)$/;"	f	signature:(bool mb_trans)
+kwsmatch	grep/src/kwset.h	/^struct kwsmatch$/;"	s
+kwsmatch::index	grep/src/kwset.h	/^  idx_t index;	\/* Index number of matching keyword.  *\/$/;"	m	struct:kwsmatch	access:public
+kwsmatch::offset	grep/src/kwset.h	/^  idx_t offset;	\/* Offset of match.  *\/$/;"	m	struct:kwsmatch	access:public
+kwsmatch::size	grep/src/kwset.h	/^  idx_t size;	\/* Length of match.  *\/$/;"	m	struct:kwsmatch	access:public
+kwsmusts	grep/src/dfasearch.c	/^kwsmusts (struct dfa_comp *dc)$/;"	f	file:	signature:(struct dfa_comp *dc)
+kwsprep	grep/src/kwset.c	/^kwsprep (kwset_t kwset)$/;"	f	signature:(kwset_t kwset)
+kwsprep	grep/src/kwset.h	/^extern void kwsprep (kwset_t);$/;"	p	signature:(kwset_t)
+kwswords	grep/src/kwset.c	/^kwswords (kwset_t kwset)$/;"	f	signature:(kwset_t kwset)
+label	grep/src/grep.c	/^static char *label = NULL;      \/* Fake filename for stdin *\/$/;"	v	file:
+label	grep/src/kwset.c	/^  unsigned char label;		\/* Label on this edge.  *\/$/;"	m	struct:tree	file:	access:public
+lastnl	grep/src/grep.c	/^static char const *lastnl;	\/* Pointer after last newline counted. *\/$/;"	v	file:
+lastout	grep/src/grep.c	/^static char *lastout;		\/* Pointer after last character output;$/;"	v	file:
+lbracket_setup	grep/tests/help-version	/^lbracket_setup () { args=": ]"; }$/;"	f
+lid_setup	grep/tests/help-version	/^lid_setup () { args=; }$/;"	f
+line_buffered	grep/src/grep.c	/^static bool line_buffered;	\/* Use line buffering.  *\/$/;"	v	file:
+line_num_color	grep/src/grep.c	/^static const char *line_num_color = "32";	\/* green *\/$/;"	v	file:
+lineno	grep/src/grep.c	/^    idx_t lineno;$/;"	m	struct:patloc	file:	access:public
+link_setup	grep/tests/help-version	/^link_setup () { args="$tmp_in link-target"; }$/;"	f
+links	grep/src/kwset.c	/^  struct tree *links;		\/* Tree of edges leaving this node.  *\/$/;"	m	struct:trie	typeref:struct:trie::tree	file:	access:public
+list_files	grep/src/grep.c	/^} list_files;$/;"	v	typeref:enum:__anon14	file:
+llink	grep/src/kwset.c	/^  struct tree *llink;		\/* Left link; MUST be first field.  *\/$/;"	m	struct:tree	typeref:struct:tree::tree	file:	access:public
+ln_setup	grep/tests/help-version	/^ln_setup () { args="$tmp_in ln-target"; }$/;"	f
+local-checks-to-skip	grep/cfg.mk	/^local-checks-to-skip =			\\$/;"	m
+localeinfo	grep/src/grep.c	/^struct localeinfo localeinfo;$/;"	v	typeref:struct:localeinfo
+logname_setup	grep/tests/help-version	/^logname_setup () { args=--version; }$/;"	f
+long_options	grep/src/grep.c	/^static struct option const long_options[] =$/;"	v	file:
+m_data	03/simple_template_class.cpp	/^    T m_data;$/;"	m	class:A	file:	access:private
+m_data	stl/simple_template_class.cpp	/^    T m_data;$/;"	m	class:A	file:	access:private
+m_denominator	03/conversion_function.cpp	/^        int m_denominator;$/;"	m	class:Fraction	file:	access:private
+m_denominator	stl/conversion_function.cpp	/^        int m_denominator;$/;"	m	class:Fraction	file:	access:private
+m_numerator	03/conversion_function.cpp	/^        int m_numerator;$/;"	m	class:Fraction	file:	access:private
+m_numerator	stl/conversion_function.cpp	/^        int m_numerator;$/;"	m	class:Fraction	file:	access:private
+m_size	03/template_class.cpp	/^    int m_size;$/;"	m	class:Array	file:	access:private
+m_size	stl/template_class.cpp	/^    int m_size;$/;"	m	class:Array	file:	access:private
+main	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	03/composition_object.cpp	/^int main() {$/;"	f	signature:()
+main	03/conversion_function.cpp	/^int main() {$/;"	f	signature:()
+main	03/fast_and_slow_pointer_is_cycle.cpp	/^int main() {$/;"	f	signature:()
+main	03/inheritance.cpp	/^int main() {$/;"	f	signature:()
+main	03/reverse_private_data.cpp	/^int main() {$/;"	f	signature:()
+main	03/reverse_public_data.cpp	/^int main() {$/;"	f	signature:()
+main	03/shared_ptr.cpp	/^int main() {$/;"	f	signature:()
+main	03/simple_template_class.cpp	/^int main() {$/;"	f	signature:()
+main	03/template_class.cpp	/^int main() {$/;"	f	signature:()
+main	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^int main() {$/;"	f	signature:()
+main	algorithm/private_data_reverse_list.cpp	/^int main() {$/;"	f	signature:()
+main	algorithm/public_data_reverse_list.cpp	/^int main() {$/;"	f	signature:()
+main	algorithm/unordered_set_is_cycle.cpp	/^int main() {$/;"	f	signature:()
+main	grep/src/grep.c	/^main (int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+main	grep/tests/get-mb-cur-max.c	/^main (int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+main	stl/allocator_pure.cpp	/^int main() {$/;"	f	signature:()
+main	stl/array_bsearch.cpp	/^int main() {$/;"	f	signature:()
+main	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	stl/conversion_function.cpp	/^int main() {$/;"	f	signature:()
+main	stl/inheritance.cpp	/^int main() {$/;"	f	signature:()
+main	stl/main.cpp	/^int main() $/;"	f	signature:()
+main	stl/multimap_insert.cpp	/^int main()$/;"	f	signature:()
+main	stl/reverse_private_data.cpp	/^int main() {$/;"	f	signature:()
+main	stl/reverse_public_data.cpp	/^int main() {$/;"	f	signature:()
+main	stl/simple_stl.cpp	/^int main() {$/;"	f	signature:()
+main	stl/simple_template_class.cpp	/^int main() {$/;"	f	signature:()
+main	stl/template_class.cpp	/^int main() {$/;"	f	signature:()
+make_input	grep/tests/euc-mb	/^make_input () {$/;"	f
+manual_title	grep/cfg.mk	/^manual_title = GNU Grep: Print lines matching a pattern$/;"	m
+match_icase	grep/src/grep.c	/^bool match_icase;$/;"	v
+match_lines	grep/src/grep.c	/^bool match_lines;$/;"	v
+match_words	grep/src/grep.c	/^bool match_words;$/;"	v
+matchers	grep/src/grep.c	/^} const matchers[] = {$/;"	v	file:
+max_count	grep/src/grep.c	/^static intmax_t max_count;	\/* Max number of selected$/;"	v	file:
+maxshift	grep/src/kwset.c	/^  idx_t maxshift;		\/* Max shift of self and descendants.  *\/$/;"	m	struct:trie	file:	access:public
+mb_clen	grep/src/search.h	/^mb_clen (char const *s, idx_t n, mbstate_t *mbs)$/;"	f	signature:(char const *s, idx_t n, mbstate_t *mbs)
+mb_goback	grep/src/search.h	/^extern ptrdiff_t mb_goback (char const **, idx_t *, char const *, char const *);$/;"	p	signature:(char const **, idx_t *, char const *, char const *)
+mb_goback	grep/src/searchutils.c	/^mb_goback (char const **mb_start, idx_t *mbclen, char const *cur,$/;"	f	signature:(char const **mb_start, idx_t *mbclen, char const *cur, char const *end)
+mb_len_map_t	grep/src/search.h	/^typedef signed char mb_len_map_t;$/;"	t
+mcontext	grep/src/pcresearch.c	/^  pcre2_match_context *mcontext;$/;"	m	struct:pcre_comp	file:	access:public
+memchr_kwset	grep/src/kwset.c	/^memchr_kwset (char const *s, idx_t n, kwset_t kwset)$/;"	f	file:	signature:(char const *s, idx_t n, kwset_t kwset)
+mind	grep/src/kwset.c	/^  idx_t mind;			\/* Minimum depth of an accepting node.  *\/$/;"	m	struct:kwset	file:	access:public
+mkdir_setup	grep/tests/help-version	/^mkdir_setup () { args=$tmp_dir\/subdir; }$/;"	f
+mkfifo_setup	grep/tests/help-version	/^mkfifo_setup () { args=--version; }$/;"	f
+mkid_setup	grep/tests/help-version	/^mkid_setup () { printf 'f(){}\\ntypedef int t;\\n' > f.c; args=. ; }$/;"	f
+mknod_setup	grep/tests/help-version	/^mknod_setup () { args=--version; }$/;"	f
+mktemp_setup	grep/tests/help-version	/^mktemp_setup () { args=mktemp.XXXX; }$/;"	f
+mktempd_	grep/tests/init.sh	/^mktempd_ ()$/;"	f
+mv_setup	grep/tests/help-version	/^mv_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+my-instcheck	grep/dist-check.mk	/^define my-instcheck$/;"	m
+n_patterns	grep/src/grep.c	/^static idx_t n_patterns;$/;"	v	file:
+name	grep/src/grep.c	/^    const char *name;$/;"	m	struct:color_cap	file:	access:public
+name	grep/src/grep.c	/^  char name[12];$/;"	m	struct:__anon15	file:	access:public
+next	03/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+next	03/reverse_private_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+next	03/reverse_public_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+next	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+next	algorithm/private_data_reverse_list.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+next	algorithm/public_data_reverse_list.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+next	algorithm/unordered_set_is_cycle.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+next	grep/src/kwset.c	/^  struct trie *next;		\/* List of all trie nodes in level order.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+next	grep/src/kwset.c	/^  struct trie *next[NCHAR];	\/* Table of children of the root.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::trie	file:	access:public
+next	stl/reverse_private_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:private
+next	stl/reverse_public_data.cpp	/^    ListNode* next;$/;"	m	class:ListNode	file:	access:public
+nlscan	grep/src/grep.c	/^nlscan (char const *lim)$/;"	f	file:	signature:(char const *lim)
+nohup_setup	grep/tests/help-version	/^nohup_setup () { args=--version; }$/;"	f
+norm_attr	grep/lib/colorize-w32.c	/^static SHORT norm_attr;$/;"	v	file:
+null_AM_MAKEFLAGS	grep/dist-check.mk	/^null_AM_MAKEFLAGS ?= \\$/;"	m
+objCamera	03/composition_object.cpp	/^  Camera objCamera;$/;"	m	class:Cellphone	file:	access:private
+obstack	grep/src/kwset.c	/^  struct obstack obstack;	\/* Obstack for node allocation.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::obstack	file:	access:public
+obstack_chunk_alloc	grep/src/kwset.c	39;"	d	file:
+obstack_chunk_free	grep/src/kwset.c	40;"	d	file:
+offset	grep/src/kwset.h	/^  idx_t offset;	\/* Offset of match.  *\/$/;"	m	struct:kwsmatch	access:public
+offset_width	grep/src/grep.c	/^static int offset_width;$/;"	v	file:
+ok	grep/tests/fedora	/^ok ()	{ printf "${G}OK${D}"; }$/;"	f
+ok_fold	grep/src/grep.c	/^static signed char ok_fold[NCHAR];$/;"	v	file:
+old_NEWS_hash	grep/cfg.mk	/^old_NEWS_hash = f4973b8b2470d613d782203aac8e8304$/;"	m
+omit_dot_slash	grep/src/grep.c	/^static bool omit_dot_slash;$/;"	v	file:
+only_matching	grep/src/grep.c	/^static bool only_matching;$/;"	v	file:
+open_symlink_nofollow_error	grep/src/grep.c	/^open_symlink_nofollow_error (int err)$/;"	f	file:	signature:(int err)
+operator ()	stl/main.cpp	/^  bool operator()(const Point& lhs, const Point& rhs) const {$/;"	f	struct:PointCmp	access:public	signature:(const Point& lhs, const Point& rhs) const
+operator double	03/conversion_function.cpp	/^      operator double() const {$/;"	f	class:Fraction	access:public	signature:() const
+operator double	stl/conversion_function.cpp	/^      operator double() const {$/;"	f	class:Fraction	access:public	signature:() const
+out_after	grep/src/grep.c	/^static intmax_t out_after;	\/* Lines of trailing context. *\/$/;"	v	file:
+out_before	grep/src/grep.c	/^static intmax_t out_before;	\/* Lines of leading context. *\/$/;"	v	file:
+out_byte	grep/src/grep.c	/^static bool out_byte;		\/* Print byte offsets. *\/$/;"	v	file:
+out_file	grep/src/grep.c	/^static int out_file;$/;"	v	file:
+out_invert	grep/src/grep.c	/^static bool out_invert;		\/* Print nonmatching stuff. *\/$/;"	v	file:
+out_line	grep/src/grep.c	/^static bool out_line;		\/* Print line numbers. *\/$/;"	v	file:
+out_quiet	grep/src/grep.c	/^static bool out_quiet;		\/* Suppress all normal output. *\/$/;"	v	file:
+out_stat	grep/src/grep.c	/^static struct stat out_stat;$/;"	v	typeref:struct:stat	file:
+outleft	grep/src/grep.c	/^static intmax_t outleft;	\/* Maximum number of selected lines.  *\/$/;"	v	file:
+pagesize	grep/src/grep.c	/^static idx_t pagesize;		\/* alignment of memory pages *\/$/;"	v	file:
+parent	grep/src/kwset.c	/^  struct trie *parent;		\/* Parent of this node.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+parse_grep_colors	grep/src/grep.c	/^parse_grep_colors (void)$/;"	f	file:	signature:(void)
+parted_setup	grep/tests/help-version	/^parted_setup () { args="-s $tmp_in mklabel gpt"$/;"	f
+path_prepend_	grep/tests/init.sh	/^path_prepend_ ()$/;"	f
+pathchk_setup	grep/tests/help-version	/^pathchk_setup () { args=$tmp_in; }$/;"	f
+patloc	grep/src/grep.c	/^static struct patloc *patloc;$/;"	v	typeref:struct:patloc	file:
+patloc	grep/src/grep.c	/^struct patloc$/;"	s	file:
+patloc::fileline	grep/src/grep.c	/^    idx_t fileline;$/;"	m	struct:patloc	file:	access:public
+patloc::filename	grep/src/grep.c	/^    char const *filename;$/;"	m	struct:patloc	file:	access:public
+patloc::lineno	grep/src/grep.c	/^    idx_t lineno;$/;"	m	struct:patloc	file:	access:public
+patlocs_allocated	grep/src/grep.c	/^static idx_t patlocs_allocated, patlocs_used;$/;"	v	file:
+patlocs_used	grep/src/grep.c	/^static idx_t patlocs_allocated, patlocs_used;$/;"	v	file:
+pattern	grep/src/kwsearch.c	/^  char *pattern;$/;"	m	struct:kwsearch	file:	access:public
+pattern_array	grep/src/grep.c	/^static char *pattern_array;$/;"	v	file:
+pattern_file_name	grep/src/grep.c	/^pattern_file_name (idx_t lineno, idx_t *new_lineno)$/;"	f	signature:(idx_t lineno, idx_t *new_lineno)
+pattern_file_name	grep/src/grep.h	/^extern char const *pattern_file_name (idx_t, idx_t *);$/;"	p	signature:(idx_t, idx_t *)
+pattern_table	grep/src/grep.c	/^static Hash_table *pattern_table;$/;"	v	file:
+patterns	grep/src/dfasearch.c	/^  struct re_pattern_buffer *patterns;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::re_pattern_buffer	file:	access:public
+pcount	grep/src/dfasearch.c	/^  idx_t pcount;$/;"	m	struct:dfa_comp	file:	access:public
+pcre2_set_depth_limit	grep/src/pcresearch.c	33;"	d	file:
+pcre_comp	grep/src/pcresearch.c	/^struct pcre_comp$/;"	s	file:
+pcre_comp::cre	grep/src/pcresearch.c	/^  pcre2_code *cre;$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::data	grep/src/pcresearch.c	/^  pcre2_match_data *data;$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::empty_match	grep/src/pcresearch.c	/^  int empty_match[2];$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::gcontext	grep/src/pcresearch.c	/^  pcre2_general_context *gcontext;$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::jit_stack	grep/src/pcresearch.c	/^  pcre2_jit_stack *jit_stack;$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::jit_stack_size	grep/src/pcresearch.c	/^  idx_t jit_stack_size;$/;"	m	struct:pcre_comp	file:	access:public
+pcre_comp::mcontext	grep/src/pcresearch.c	/^  pcre2_match_context *mcontext;$/;"	m	struct:pcre_comp	file:	access:public
+pending	grep/src/grep.c	/^static intmax_t pending;	\/* Pending lines of output.$/;"	v	file:
+pfx	grep/dist-check.mk	/^pfx=$(t)\/i$/;"	m
+poison_buf	grep/src/grep.c	/^static void const *poison_buf;$/;"	v	file:
+poison_len	grep/src/grep.c	/^static idx_t poison_len;$/;"	v	file:
+possible_backrefs_in_pattern	grep/src/dfasearch.c	/^possible_backrefs_in_pattern (char const *keys, idx_t len, bool bs_safe)$/;"	f	file:	signature:(char const *keys, idx_t len, bool bs_safe)
+pr_sgr_end	grep/src/grep.c	/^pr_sgr_end (char const *s)$/;"	f	file:	signature:(char const *s)
+pr_sgr_end_if	grep/src/grep.c	/^pr_sgr_end_if (char const *s)$/;"	f	file:	signature:(char const *s)
+pr_sgr_start	grep/src/grep.c	/^pr_sgr_start (char const *s)$/;"	f	file:	signature:(char const *s)
+pr_sgr_start_if	grep/src/grep.c	/^pr_sgr_start_if (char const *s)$/;"	f	file:	signature:(char const *s)
+preferred_tarball_	grep/dist-check.mk	/^preferred_tarball_ = $(distdir).tar.$(suffix_)$/;"	m
+print	03/template_class.cpp	/^    void print() const;$/;"	p	class:Array	file:	access:public	signature:() const
+print	03/template_class.cpp	/^void Array<T>::print() const {$/;"	f	class:Array	signature:() const
+print	stl/multimap_insert.cpp	/^void print(const std::string_view rem, const M& mmap)$/;"	f	signature:(const std::string_view rem, const M& mmap)
+print	stl/template_class.cpp	/^    void print() const;$/;"	p	class:Array	file:	access:public	signature:() const
+print	stl/template_class.cpp	/^void Array<T>::print() const {$/;"	f	class:Array	signature:() const
+printList	03/reverse_private_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	03/reverse_private_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+printList	03/reverse_public_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	03/reverse_public_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+printList	algorithm/private_data_reverse_list.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	algorithm/private_data_reverse_list.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+printList	algorithm/public_data_reverse_list.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	algorithm/public_data_reverse_list.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+printList	stl/reverse_private_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	stl/reverse_private_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+printList	stl/reverse_public_data.cpp	/^    void printList() const;$/;"	p	class:ListNode	file:	access:public	signature:() const
+printList	stl/reverse_public_data.cpp	/^void ListNode::printList() const {$/;"	f	class:ListNode	signature:() const
+print_end_colorize	grep/lib/colorize-posix.c	/^print_end_colorize (char const *sgr_end)$/;"	f	signature:(char const *sgr_end)
+print_end_colorize	grep/lib/colorize-w32.c	/^print_end_colorize (char const *sgr_end)$/;"	f	signature:(char const *sgr_end)
+print_end_colorize	grep/lib/colorize.h	/^extern void print_end_colorize (char const *sgr_end);$/;"	p	signature:(char const *sgr_end)
+print_filename	grep/src/grep.c	/^print_filename (void)$/;"	f	file:	signature:(void)
+print_line_head	grep/src/grep.c	/^print_line_head (char *beg, idx_t len, char const *lim, char sep)$/;"	f	file:	signature:(char *beg, idx_t len, char const *lim, char sep)
+print_line_middle	grep/src/grep.c	/^print_line_middle (char *beg, char *lim,$/;"	f	file:	signature:(char *beg, char *lim, const char *line_color, const char *match_color)
+print_line_tail	grep/src/grep.c	/^print_line_tail (char *beg, const char *lim, const char *line_color)$/;"	f	file:	signature:(char *beg, const char *lim, const char *line_color)
+print_map	stl/main.cpp	/^void print_map(Map& m)$/;"	f	signature:(Map& m)
+print_offset	grep/src/grep.c	/^print_offset (intmax_t pos, const char *color)$/;"	f	file:	signature:(intmax_t pos, const char *color)
+print_sep	grep/src/grep.c	/^print_sep (char sep)$/;"	f	file:	signature:(char sep)
+print_start_colorize	grep/lib/colorize-posix.c	/^print_start_colorize (char const *sgr_start, char const *sgr_seq)$/;"	f	signature:(char const *sgr_start, char const *sgr_seq)
+print_start_colorize	grep/lib/colorize-w32.c	/^print_start_colorize (char const *sgr_start, char const *sgr_seq)$/;"	f	signature:(char const *sgr_start, char const *sgr_seq)
+print_start_colorize	grep/lib/colorize.h	/^extern void print_start_colorize (char const *sgr_start, char const *sgr_seq);$/;"	p	signature:(char const *sgr_start, char const *sgr_seq)
+print_versions	grep/bootstrap	/^print_versions() {$/;"	f
+printf_errno	grep/src/grep.c	/^printf_errno (char const *format, ...)$/;"	f	signature:(char const *format, ...)
+printf_setup	grep/tests/help-version	/^printf_setup () { args=foo; }$/;"	f
+private_free	grep/src/pcresearch.c	/^private_free (void *ptr, _GL_UNUSED void *unused)$/;"	f	file:	signature:(void *ptr, _GL_UNUSED void *unused)
+private_malloc	grep/src/pcresearch.c	/^private_malloc (PCRE2_SIZE size, _GL_UNUSED void *unused)$/;"	f	file:	signature:(PCRE2_SIZE size, _GL_UNUSED void *unused)
+prline	grep/src/grep.c	/^prline (char *beg, char *lim, char sep)$/;"	f	file:	signature:(char *beg, char *lim, char sep)
+prpending	grep/src/grep.c	/^prpending (char const *lim)$/;"	f	file:	signature:(char const *lim)
+prtext	grep/src/grep.c	/^prtext (char *beg, char *lim)$/;"	f	file:	signature:(char *beg, char *lim)
+ptr	03/template_class.cpp	/^    T* ptr;$/;"	m	class:Array	file:	access:private
+ptr	stl/template_class.cpp	/^    T* ptr;$/;"	m	class:Array	file:	access:private
+putchar_errno	grep/src/grep.c	/^putchar_errno (int c)$/;"	f	file:	signature:(int c)
+qnxnto	03/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	algorithm/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	stl/build/CMakeFiles/3.18.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+rand_bytes_	grep/tests/init.sh	/^rand_bytes_ ()$/;"	f
+re	grep/src/kwsearch.c	/^  void *re;$/;"	m	struct:kwsearch	file:	access:public
+readlink_setup	grep/tests/help-version	/^readlink_setup () {$/;"	f
+realpath_setup	grep/tests/help-version	/^realpath_setup () { args=$tmp_in; }$/;"	f
+regex_compile	grep/src/dfasearch.c	/^regex_compile (struct dfa_comp *dc, char const *p, idx_t len,$/;"	f	file:	signature:(struct dfa_comp *dc, char const *p, idx_t len, idx_t pcount, idx_t lineno, reg_syntax_t syntax_bits, bool syntax_only)
+regs	grep/src/dfasearch.c	/^  struct re_registers regs;$/;"	m	struct:dfa_comp	typeref:struct:dfa_comp::re_registers	file:	access:public
+remove_tmp_	grep/tests/init.sh	/^remove_tmp_ ()$/;"	f
+reset	grep/src/grep.c	/^reset (int fd, struct stat const *st)$/;"	f	file:	signature:(int fd, struct stat const *st)
+returns_	grep/tests/init.sh	/^returns_ () {$/;"	f
+reverse	03/reverse_private_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	03/reverse_private_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+reverse	03/reverse_public_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	03/reverse_public_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+reverse	algorithm/private_data_reverse_list.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	algorithm/private_data_reverse_list.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+reverse	algorithm/public_data_reverse_list.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	algorithm/public_data_reverse_list.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+reverse	stl/reverse_private_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	stl/reverse_private_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+reverse	stl/reverse_public_data.cpp	/^    ListNode& reverse();$/;"	p	class:ListNode	file:	access:public	signature:()
+reverse	stl/reverse_public_data.cpp	/^ListNode& ListNode::reverse() {$/;"	f	class:ListNode	signature:()
+rlink	grep/src/kwset.c	/^  struct tree *rlink;		\/* Right link (to larger labels).  *\/$/;"	m	struct:tree	typeref:struct:tree::tree	file:	access:public
+rm_setup	grep/tests/help-version	/^rm_setup () { args=$tmp_in; }$/;"	f
+rmdir_setup	grep/tests/help-version	/^rmdir_setup () { args=$tmp_dir; }$/;"	f
+run_tests	grep/tests/Coreutils.pm	/^sub run_tests ($$$$$)$/;"	s
+sbwordchar	grep/src/searchutils.c	/^static bool sbwordchar[NCHAR];$/;"	v	file:
+sdiff_setup	grep/tests/help-version	/^sdiff_setup () { args="$tmp_in $tmp_in2"; }$/;"	f
+seek_data_failed	grep/src/grep.c	/^static bool seek_data_failed;$/;"	v	file:
+seek_failed	grep/src/grep.c	/^static bool seek_failed;$/;"	v	file:
+selected_line_color	grep/src/grep.c	/^static const char *selected_line_color = "";	\/* default color pair *\/$/;"	v	file:
+selected_match_color	grep/src/grep.c	/^static const char *selected_match_color = "01;31";	\/* bold red *\/$/;"	v	file:
+sep_color	grep/src/grep.c	/^static const char *sep_color      = "36";	\/* cyan *\/$/;"	v	file:
+seq_setup	grep/tests/help-version	/^seq_setup () { args=10; }$/;"	f
+setNext	03/reverse_private_data.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+setNext	algorithm/private_data_reverse_list.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+setNext	stl/reverse_private_data.cpp	/^    void setNext(ListNode* n) {$/;"	f	class:ListNode	access:public	signature:(ListNode* n)
+setVal	03/reverse_private_data.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+setVal	algorithm/private_data_reverse_list.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+setVal	stl/reverse_private_data.cpp	/^    void setVal(int v) {$/;"	f	class:ListNode	access:public	signature:(int v)
+setmatcher	grep/src/grep.c	/^setmatcher (char const *m, int matcher)$/;"	f	file:	signature:(char const *m, int matcher)
+setup_	grep/tests/init.sh	/^setup_ ()$/;"	f
+setup_ok_fold	grep/src/grep.c	/^setup_ok_fold (void)$/;"	f	file:	signature:(void)
+sgr_end	grep/src/grep.c	/^static const char *sgr_end   = "\\33[m\\33[K";$/;"	v	file:
+sgr_start	grep/src/grep.c	/^static const char *sgr_start = "\\33[%sm\\33[K";$/;"	v	file:
+shift	grep/src/kwset.c	/^  idx_t *shift;			\/* Used in Boyer-Moore search for one$/;"	m	struct:kwset	file:	access:public
+shift	grep/src/kwset.c	/^  idx_t shift;			\/* Shift function for search failures.  *\/$/;"	m	struct:trie	file:	access:public
+short_options	grep/src/grep.c	/^static char const short_options[] =$/;"	v	file:
+should_colorize	grep/lib/colorize-posix.c	/^should_colorize (void)$/;"	f	signature:(void)
+should_colorize	grep/lib/colorize-w32.c	/^should_colorize (void)$/;"	f	signature:(void)
+should_colorize	grep/lib/colorize.h	/^extern int should_colorize (void);$/;"	p	signature:(void)
+show	03/composition_object.cpp	/^  void show() {$/;"	f	class:Cellphone	access:public	signature:()
+show	03/shared_ptr.cpp	/^      void show() {$/;"	f	class:A	access:public	signature:()
+show_help	grep/src/grep.c	/^static int show_help;$/;"	v	file:
+show_version	grep/src/grep.c	/^static bool show_version;$/;"	v	file:
+shred_setup	grep/tests/help-version	/^shred_setup () { args=$tmp_in; }$/;"	f
+size	grep/src/kwsearch.c	/^  idx_t size;$/;"	m	struct:kwsearch	file:	access:public
+size	grep/src/kwset.h	/^  idx_t size;	\/* Length of match.  *\/$/;"	m	struct:kwsmatch	access:public
+skip	grep/tests/CuSkip.pm	/^sub skip ($)$/;"	s
+skip_	grep/tests/init.sh	/^skip_ () { warn_ "$ME_: skipped test: $@"; Exit 77; }$/;"	f
+skip_devices	grep/src/grep.c	/^skip_devices (bool command_line)$/;"	f	file:	signature:(bool command_line)
+skip_easy_bytes	grep/src/grep.c	/^skip_easy_bytes (char const *buf)$/;"	f	file:	signature:(char const *buf)
+skip_empty_lines	grep/src/grep.c	/^static bool skip_empty_lines;	\/* Skip empty lines in data.  *\/$/;"	v	file:
+skip_nuls	grep/src/grep.c	/^static bool skip_nuls;		\/* Skip '\\0' in data.  *\/$/;"	v	file:
+skip_test	grep/tests/CuTmpdir.pm	/^sub skip_test($)$/;"	s
+skipped_file	grep/src/grep.c	/^skipped_file (char const *name, bool command_line, bool is_dir)$/;"	f	file:	signature:(char const *name, bool command_line, bool is_dir)
+sleep_setup	grep/tests/help-version	/^sleep_setup () { args=0; }$/;"	f
+sort_ver	grep/bootstrap	/^sort_ver() { # sort -V is not generally available$/;"	f
+stat_setup	grep/tests/help-version	/^stat_setup () { args=$tmp_in; }$/;"	f
+status_range	grep/tests/grep-dir	/^status_range ()$/;"	f
+stdbuf_setup	grep/tests/help-version	/^stdbuf_setup () { args="-oL true"; }$/;"	f
+stdout_errno	grep/src/grep.c	/^static int stdout_errno;$/;"	v	file:
+suffix_	grep/dist-check.mk	/^    suffix_ = bz2$/;"	m
+suffix_	grep/dist-check.mk	/^    suffix_ = gz$/;"	m
+suffix_	grep/dist-check.mk	/^  suffix_ = xz$/;"	m
+suppress_errors	grep/src/grep.c	/^static bool suppress_errors;$/;"	v	file:
+suppressible_error	grep/src/grep.c	/^suppressible_error (int errnum)$/;"	f	file:	signature:(int errnum)
+symlink_to_dir	grep/bootstrap	/^symlink_to_dir()$/;"	f
+sync_setup	grep/tests/help-version	/^sync_setup () { args=--version; }$/;"	f
+syntax	grep/src/grep.c	/^  int syntax; \/* used if compile == GEAcompile *\/$/;"	m	struct:__anon15	file:	access:public
+t	grep/dist-check.mk	/^t=$(tmpdir)\/$(PACKAGE)\/test$/;"	m
+t_prefix	grep/dist-check.mk	/^t_prefix = $(tp)\/a$/;"	m
+t_taint	grep/dist-check.mk	/^t_taint = '$(t_prefix) b'$/;"	m
+tar_decompress_opt_	grep/dist-check.mk	/^    tar_decompress_opt_ = j$/;"	m
+tar_decompress_opt_	grep/dist-check.mk	/^    tar_decompress_opt_ = z$/;"	m
+tar_decompress_opt_	grep/dist-check.mk	/^  tar_decompress_opt_ = J$/;"	m
+target	grep/src/kwset.c	/^  char *target;			\/* Target string if there's only one.  *\/$/;"	m	struct:kwset	file:	access:public
+test	grep/tests/spencer1-locale.awk	/^function test(locale)$/;"	f
+test_grep	grep/tests/sjis-mb	/^test_grep() {$/;"	f
+test_grep_reject	grep/tests/sjis-mb	/^test_grep_reject() {$/;"	f
+test_setup	grep/tests/help-version	/^test_setup () { args=foo; }$/;"	f
+testdir_prefix_	grep/tests/init.sh	/^testdir_prefix_ () { printf gt; }$/;"	f
+timeout_setup	grep/tests/help-version	/^timeout_setup () { args=--version; }$/;"	f
+tmpdir	grep/dist-check.mk	/^tmpdir = $(abs_top_builddir)\/tests\/torture$/;"	m
+to_uchar	grep/src/system.h	/^to_uchar (char ch)$/;"	f	signature:(char ch)
+totalcc	grep/src/grep.c	/^static intmax_t totalcc;	\/* Total character count before bufbeg. *\/$/;"	v	file:
+totalnl	grep/src/grep.c	/^static intmax_t totalnl;	\/* Total newline count before lastnl. *\/$/;"	v	file:
+touch_setup	grep/tests/help-version	/^touch_setup () { args=$tmp_in2; }$/;"	f
+tp	grep/dist-check.mk	/^tp = $(tmpdir)\/taint$/;"	m
+tr	grep/src/kwset.c	/^tr (char const *trans, char c)$/;"	f	file:	signature:(char const *trans, char c)
+tr_setup	grep/tests/help-version	/^tr_setup () { args='a a'; }$/;"	f
+trans	grep/src/kwset.c	/^  char const *trans;		\/* Character translation table.  *\/$/;"	m	struct:kwset	file:	access:public
+tree	grep/src/kwset.c	/^struct tree$/;"	s	file:
+tree::balance	grep/src/kwset.c	/^  char balance;			\/* Difference in depths of subtrees.  *\/$/;"	m	struct:tree	file:	access:public
+tree::label	grep/src/kwset.c	/^  unsigned char label;		\/* Label on this edge.  *\/$/;"	m	struct:tree	file:	access:public
+tree::llink	grep/src/kwset.c	/^  struct tree *llink;		\/* Left link; MUST be first field.  *\/$/;"	m	struct:tree	typeref:struct:tree::tree	file:	access:public
+tree::rlink	grep/src/kwset.c	/^  struct tree *rlink;		\/* Right link (to larger labels).  *\/$/;"	m	struct:tree	typeref:struct:tree::tree	file:	access:public
+tree::trie	grep/src/kwset.c	/^  struct trie *trie;		\/* Trie node pointed to by this edge.  *\/$/;"	m	struct:tree	typeref:struct:tree::trie	file:	access:public
+treedelta	grep/src/kwset.c	/^treedelta (struct tree const *tree, idx_t depth, unsigned char delta[])$/;"	f	file:	signature:(struct tree const *tree, idx_t depth, unsigned char delta[])
+treefails	grep/src/kwset.c	/^treefails (struct tree const *tree, struct trie const *fail,$/;"	f	file:	signature:(struct tree const *tree, struct trie const *fail, struct trie *recourse, bool reverse)
+treenext	grep/src/kwset.c	/^treenext (struct tree const *tree, struct trie *next[])$/;"	f	file:	signature:(struct tree const *tree, struct trie *next[])
+trie	grep/src/kwset.c	/^  struct trie *trie;		\/* The trie itself.  *\/$/;"	m	struct:kwset	typeref:struct:kwset::trie	file:	access:public
+trie	grep/src/kwset.c	/^  struct trie *trie;		\/* Trie node pointed to by this edge.  *\/$/;"	m	struct:tree	typeref:struct:tree::trie	file:	access:public
+trie	grep/src/kwset.c	/^struct trie$/;"	s	file:
+trie::accepting	grep/src/kwset.c	/^  ptrdiff_t accepting;$/;"	m	struct:trie	file:	access:public
+trie::depth	grep/src/kwset.c	/^  idx_t depth;			\/* Depth of this node from the root.  *\/$/;"	m	struct:trie	file:	access:public
+trie::fail	grep/src/kwset.c	/^  struct trie *fail;		\/* Aho-Corasick failure function.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+trie::links	grep/src/kwset.c	/^  struct tree *links;		\/* Tree of edges leaving this node.  *\/$/;"	m	struct:trie	typeref:struct:trie::tree	file:	access:public
+trie::maxshift	grep/src/kwset.c	/^  idx_t maxshift;		\/* Max shift of self and descendants.  *\/$/;"	m	struct:trie	file:	access:public
+trie::next	grep/src/kwset.c	/^  struct trie *next;		\/* List of all trie nodes in level order.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+trie::parent	grep/src/kwset.c	/^  struct trie *parent;		\/* Parent of this node.  *\/$/;"	m	struct:trie	typeref:struct:trie::trie	file:	access:public
+trie::shift	grep/src/kwset.c	/^  idx_t shift;			\/* Shift function for search failures.  *\/$/;"	m	struct:trie	file:	access:public
+triple_test	grep/tests/Coreutils.pm	/^sub triple_test($)$/;"	s
+truncate_setup	grep/tests/help-version	/^truncate_setup () { args="--reference=$tmp_in $tmp_in2"; }$/;"	f
+try_fgrep_pattern	grep/src/grep.c	/^try_fgrep_pattern (int matcher, char *keys, idx_t *len_p)$/;"	f	file:	signature:(int matcher, char *keys, idx_t *len_p)
+unibyte_mask	grep/src/grep.c	/^static uword unibyte_mask;$/;"	v	file:
+unlink_setup	grep/tests/help-version	/^unlink_setup () { args=$tmp_in; }$/;"	f
+update-copyright-env	grep/cfg.mk	/^update-copyright-env = \\$/;"	m
+update_patterns	grep/src/grep.c	/^update_patterns (char *keys, idx_t dupfree_size, idx_t size,$/;"	f	file:	signature:(char *keys, idx_t dupfree_size, idx_t size, char const *filename)
+update_po_files	grep/bootstrap	/^update_po_files() {$/;"	f
+uptime_setup	grep/tests/help-version	/^uptime_setup () { args=--version; }$/;"	f
+url_dir_list	grep/cfg.mk	/^url_dir_list = https:\/\/ftp.gnu.org\/gnu\/$(PACKAGE)$/;"	m
+usable_st_size	grep/src/grep.c	/^usable_st_size (struct stat const *st)$/;"	f	file:	signature:(struct stat const *st)
+usage	grep/bootstrap	/^usage() {$/;"	f
+usage	grep/src/grep.c	/^_Noreturn void usage (int);$/;"	p	file:	signature:(int)
+usage	grep/src/grep.c	/^usage (int status)$/;"	f	signature:(int status)
+uword	grep/src/grep.c	/^typedef uintmax_t uword;$/;"	t	file:
+uword_max	grep/src/grep.c	/^static uword const uword_max = UINTMAX_MAX;$/;"	v	file:
+uword_size	grep/src/grep.c	/^enum { uword_size = sizeof (uword) }; \/* For when a signed size is wanted.  *\/$/;"	e	enum:__anon11	file:
+val	03/fast_and_slow_pointer_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+val	03/reverse_private_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+val	03/reverse_public_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+val	algorithm/fast_and_slow_pointer_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+val	algorithm/private_data_reverse_list.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+val	algorithm/public_data_reverse_list.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+val	algorithm/unordered_set_is_cycle.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+val	stl/reverse_private_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:private
+val	stl/reverse_public_data.cpp	/^    int val;$/;"	m	class:ListNode	file:	access:public
+var	grep/src/grep.c	/^    const char **var;$/;"	m	struct:color_cap	file:	access:public
+version_controlled_file	grep/bootstrap	/^version_controlled_file() {$/;"	f
+vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const = 0;$/;"	p	class:A	file:	access:public	signature:() const
+vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:B	file:	access:public	signature:() const
+vfunc1	03/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:C	file:	access:public	signature:() const
+vfunc1	03/inheritance.cpp	/^B::vfunc1() const {$/;"	f	class:B	signature:() const
+vfunc1	03/inheritance.cpp	/^C::vfunc1() const {$/;"	f	class:C	signature:() const
+vfunc1	03/inheritance.cpp	/^void A::vfunc1() const {$/;"	f	class:A	signature:() const
+vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const = 0;$/;"	p	class:A	file:	access:public	signature:() const
+vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:B	file:	access:public	signature:() const
+vfunc1	stl/inheritance.cpp	/^  virtual void vfunc1() const;$/;"	p	class:C	file:	access:public	signature:() const
+vfunc1	stl/inheritance.cpp	/^B::vfunc1() const {$/;"	f	class:B	signature:() const
+vfunc1	stl/inheritance.cpp	/^C::vfunc1() const {$/;"	f	class:C	signature:() const
+vfunc1	stl/inheritance.cpp	/^void A::vfunc1() const {$/;"	f	class:A	signature:() const
+vfunc2	03/inheritance.cpp	/^  virtual void vfunc2() const;$/;"	p	class:A	file:	access:public	signature:() const
+vfunc2	03/inheritance.cpp	/^void A::vfunc2() const {$/;"	f	class:A	signature:() const
+vfunc2	stl/inheritance.cpp	/^  virtual void vfunc2() const;$/;"	p	class:A	file:	access:public	signature:() const
+vfunc2	stl/inheritance.cpp	/^void A::vfunc2() const {$/;"	f	class:A	signature:() const
+w32_clreol	grep/lib/colorize-w32.c	/^w32_clreol (void)$/;"	f	file:	signature:(void)
+w32_sgr2attr	grep/lib/colorize-w32.c	/^w32_sgr2attr (const char *sgr_seq)$/;"	f	file:	signature:(const char *sgr_seq)
+warn_	grep/bootstrap	/^warn_ ()$/;"	f
+warn_	grep/tests/init.sh	/^warn_ ()$/;"	f
+warnf_	grep/bootstrap	/^warnf_ ()$/;"	f
+wordchar	grep/src/searchutils.c	/^wordchar (wint_t wc)$/;"	f	file:	signature:(wint_t wc)
+wordchar_next	grep/src/searchutils.c	/^wordchar_next (char const *buf, char const *end)$/;"	f	signature:(char const *buf, char const *end)
+wordchar_prev	grep/src/searchutils.c	/^wordchar_prev (char const *buf, char const *cur, char const *end)$/;"	f	signature:(char const *buf, char const *cur, char const *end)
+wordchars_count	grep/src/searchutils.c	/^wordchars_count (char const *buf, char const *end, bool countall)$/;"	f	file:	signature:(char const *buf, char const *end, bool countall)
+wordchars_size	grep/src/searchutils.c	/^wordchars_size (char const *buf, char const *end)$/;"	f	signature:(char const *buf, char const *end)
+wordinit	grep/src/search.h	/^extern void wordinit (void);$/;"	p	signature:(void)
+wordinit	grep/src/searchutils.c	/^wordinit (void)$/;"	f	signature:(void)
+words	grep/src/kwsearch.c	/^  idx_t words;$/;"	m	struct:kwsearch	file:	access:public
+words	grep/src/kwset.c	/^  idx_t words;			\/* Number of words in the trie.  *\/$/;"	m	struct:kwset	file:	access:public
+write_loser	grep/dist-check.mk	/^write_loser = printf '\\#!%s\\necho $$0: bad path 1>&2; exit 1\\n' '$(SHELL)'$/;"	m
+x	03/composition_object.cpp	/^    int x;$/;"	m	class:Camera	file:	access:public
+x	stl/main.cpp	/^struct Point { double x, y; };$/;"	m	struct:Point	file:	access:public
+xtokid_setup	grep/tests/help-version	/^xtokid_setup () { args=; }$/;"	f
+y	stl/main.cpp	/^struct Point { double x, y; };$/;"	m	struct:Point	file:	access:public
+yes_setup	grep/tests/help-version	/^yes_setup () { args=--version; }$/;"	f
+zap_nuls	grep/src/grep.c	/^zap_nuls (char *p, char *lim, char eol)$/;"	f	file:	signature:(char *p, char *lim, char eol)
+zcat_setup	grep/tests/help-version	/^zcat_setup () { args=$zin; }$/;"	f
+zcmp_setup	grep/tests/help-version	/^zcmp_setup () { args="$zin $zin2"; }$/;"	f
+zdiff_setup	grep/tests/help-version	/^zdiff_setup () { args="$zin $zin2"; }$/;"	f
+zegrep_setup	grep/tests/help-version	/^zegrep_setup () { args="z $zin"; }$/;"	f
+zfgrep_setup	grep/tests/help-version	/^zfgrep_setup () { args="z $zin"; }$/;"	f
+zforce_setup	grep/tests/help-version	/^zforce_setup () { args=$zin; }$/;"	f
+zgrep_setup	grep/tests/help-version	/^zgrep_setup () { args="z $zin"; }$/;"	f
+zless_setup	grep/tests/help-version	/^zless_setup () { args=$zin; }$/;"	f
+zmore_setup	grep/tests/help-version	/^zmore_setup () { args=$zin; }$/;"	f
+znew_setup	grep/tests/help-version	/^znew_setup () { args=$bigZ_in; }$/;"	f

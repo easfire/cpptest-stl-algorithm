@@ -1,0 +1,3 @@
+/data/cpp_prj/zhihu/03/build/CMakeFiles/rebuild_cache.dir
+/data/cpp_prj/zhihu/03/build/CMakeFiles/edit_cache.dir
+/data/cpp_prj/zhihu/03/build/CMakeFiles/cpptest.dir
