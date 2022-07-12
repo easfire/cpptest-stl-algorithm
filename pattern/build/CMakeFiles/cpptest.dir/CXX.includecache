@@ -9,4 +9,8 @@
 /data/cpp_prj/zhihu/pattern/main.cpp
 iostream
 -
+fstream
+-
+string.h
+-
 
